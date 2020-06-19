@@ -543,6 +543,14 @@ DOMAIN-SUFFIX,naughtyamerica.com
 ## > NetworkLayer Technologies
 DOMAIN-SUFFIX,networklayertech.net
 IP-CIDR,104.143.229.0/24,no-resolve
+## > Nike
+DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,nike.com.br
+DOMAIN-SUFFIX,nike.com.hk
+DOMAIN-SUFFIX,nikecdn.com
+DOMAIN-SUFFIX,nikecloud.com
+DOMAIN-SUFFIX,niketracking.com
+DOMAIN-SUFFIX,static-nike.com
 ## > Nodejs
 DOMAIN-SUFFIX,nodejs.org
 ## > Npmjs
