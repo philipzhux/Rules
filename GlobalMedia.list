@@ -230,13 +230,15 @@ DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 ## > JOOX
 DOMAIN-SUFFIX,joox.com
-# # > Kakao
+## > Kakao
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakao.co.kr
 DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,kakaocorp.com
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,daumcdn.net
+# >> Potplayer
+DOMAIN-SUFFIX,daumpotplayer.com
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,103.246.56.0/22,no-resolve
 IP-CIDR,103.27.148.0/22,no-resolve
