@@ -496,6 +496,23 @@ DOMAIN-SUFFIX,voa-11.akacast.akamaistream.net
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v.smtcdns.net
+## > Voxmedia
+DOMAIN-SUFFIX,cstatic.net
+DOMAIN-SUFFIX,curbed.com
+DOMAIN-SUFFIX,eater.com
+DOMAIN-SUFFIX,funnyordie.com
+DOMAIN-SUFFIX,meridian.net
+DOMAIN-SUFFIX,polygon.com
+DOMAIN-SUFFIX,racked.com
+DOMAIN-SUFFIX,recode.net
+DOMAIN-SUFFIX,sbnation.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,vox-cdn.com
+DOMAIN-SUFFIX,vox.com
+DOMAIN-SUFFIX,voxcreative.com
+DOMAIN-SUFFIX,voxfieldguide.com
+DOMAIN-SUFFIX,voxmedia.com
+DOMAIN-SUFFIX,voxops.net
 ## > Scholar
 # >> Elsevier
 DOMAIN-SUFFIX,engineeringvillage.com

@@ -371,6 +371,7 @@ DOMAIN-SUFFIX,zynamics.com
 DOMAIN-SUFFIX,digitalattackmap.com
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,app-measurement.net
+DOMAIN-SUFFIX,meet.new
 DOMAIN-KEYWORD,google
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
