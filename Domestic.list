@@ -1415,6 +1415,10 @@ DOMAIN-SUFFIX,oneplus.net
 DOMAIN-SUFFIX,opstatics.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,h2os.com
+## > 掌淘
+DOMAIN-SUFFIX,appgo.cn
+DOMAIN-SUFFIX,sharesdk.cn
+DOMAIN-SUFFIX,mob.com
 ## > 知乎
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
@@ -1847,7 +1851,6 @@ DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
-DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,moke.com
 DOMAIN-SUFFIX,moocollege.com
 DOMAIN-SUFFIX,mop.com
