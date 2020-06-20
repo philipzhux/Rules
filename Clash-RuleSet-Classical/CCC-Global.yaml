@@ -1,18 +1,18 @@
 payload:
-## 🍖 PROXY
-## > CDN-Global
-# > Akamai
+  ## 🍖 PROXY
+  ## > CDN-Global
+  # > Akamai
   - DOMAIN-SUFFIX,akamai.net
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,akamaiedge.net
   - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,akamaistream.net
-# > Amazon
+  # > Amazon
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,awsstatic.com
   - DOMAIN-SUFFIX,media.amazonwebservices.com
-# > Cloudflare
+  # > Cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
@@ -50,18 +50,18 @@ payload:
   - IP-CIDR,190.93.240.0/20,no-resolve
   - IP-CIDR,197.234.240.0/22,no-resolve
   - IP-CIDR,198.41.128.0/17,no-resolve
-## > CloudFront
+  ## > CloudFront
   - DOMAIN,d3c33hcgiwev3.cloudfront.net
   - DOMAIN,d3rhr7kgmtrq1v.cloudfront.net
-# > HiNet
+  # > HiNet
   - DOMAIN-SUFFIX,cdn.hinet.net
-# > Live Person
+  # > Live Person
   - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,liveperson.com
   - DOMAIN-SUFFIX,liveperson.net
-# > Verizon Media Platform
+  # > Verizon Media Platform
   - DOMAIN-SUFFIX,verizondigitalmedia.com
-# > Others
+  # > Others
   - DOMAIN-SUFFIX,dog1.verystream.com
   - DOMAIN-SUFFIX,1fhjlv1.oloadcdn.net
   - DOMAIN-SUFFIX,gounlimited.to
