@@ -414,7 +414,6 @@ payload:
   - DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
   - DOMAIN-SUFFIX,tidalhifi.com
 ## > TikTok
-USER-AGENT,TikTok*
   - DOMAIN-KEYWORD,-tiktokcdn-com
   - DOMAIN-SUFFIX,tiktok.com
   - DOMAIN-SUFFIX,sgpstatp.com
