@@ -1,7 +1,6 @@
 {% if request.target == "clash" or request.target == "clashr" %}
 
-port: {{ local.clash.http_port }}
-socks-port: {{ local.clash.socks_port }}
+mixed-port: {{ local.clash.mixed_port }}
 redir-port: {{ local.clash.redir_port}}
 allow-lan: {{ local.clash.allow_lan }}
 mode: Rule
