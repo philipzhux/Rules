@@ -45,18 +45,20 @@ dns:
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - '*.lan'
-    - msftconnecttest.com
+    - 'msftconnecttest.com'
     - '*.msftconnecttest.com'
-    - msftncsi.com
+    - 'msftncsi.com'
     - '*.msftncsi.com'
-    - localhost.ptlogin2.qq.com
-    - localhost.sec.qq.com
+    - 'localhost.ptlogin2.qq.com'
+    - 'localhost.sec.qq.com'
     - '+.stun.*.*'
     - '+.stun.*.*.*'
     - '+.stun.*.*.*.*'
     - 'lens.l.google.com'
     - 'stun.l.google.com'
     - '*.n.n.srv.nintendo.net'
+    - '.apple.*'
+    - '+.foo.com'
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
