@@ -413,6 +413,17 @@ payload:
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,elemecdn.com
   - DOMAIN-SUFFIX,eleme.cn
+  ## > 风行网
+  - DOMAIN-SUFFIX,fun.tv
+  - DOMAIN-SUFFIX,funshion.tv
+  - DOMAIN-SUFFIX,jvcsmart.cn
+  - DOMAIN-SUFFIX,ibidian.com
+  - DOMAIN-SUFFIX,fspcdn.com
+  - DOMAIN-SUFFIX,funshion.net
+  - DOMAIN-SUFFIX,9ixiuxiu.com
+  - DOMAIN-SUFFIX,funshion.com
+  - DOMAIN-SUFFIX,9iwanwan.com
+  - DOMAIN-SUFFIX,jvcsmart.com.cn
   ## > 凤凰网
   - DOMAIN-SUFFIX,ifeng.com
   - DOMAIN-SUFFIX,fengzhibo.com.cn
