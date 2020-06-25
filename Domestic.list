@@ -1027,10 +1027,13 @@ DOMAIN-SUFFIX,mogujie.com
 DOMAIN-SUFFIX,mogu.com
 ## > 墨迹天气
 DOMAIN-SUFFIX,xiaomo.cn
-DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,moweather.com
 DOMAIN-SUFFIX,airnut.com
+DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,mojicb.com
+DOMAIN-SUFFIX,mojicdn.com
+DOMAIN-SUFFIX,moji001.com
+DOMAIN-SUFFIX,moji002.com
 DOMAIN-SUFFIX,mojitest.com
 ## > 奶牛快传
 DOMAIN-SUFFIX,c-t.work

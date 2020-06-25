@@ -1463,6 +1463,39 @@ DOMAIN-SUFFIX,db5.vortex.data.microsoft.com.akadns.net
 DOMAIN-SUFFIX,geo.vortex.data.microsoft.com.akadns.net
 DOMAIN-SUFFIX,choice.microsoft.com.nsatc.net
 DOMAIN-SUFFIX,sqm.telemetry.microsoft.com.nsatc.net
+DOMAIN-SUFFIX,0.r.msn.com
+DOMAIN-SUFFIX,ac2.msn.com
+DOMAIN-SUFFIX,ac3.msn.com
+DOMAIN-SUFFIX,ads1.msn.com
+DOMAIN-SUFFIX,ads2.msn.com
+DOMAIN-SUFFIX,adsyndication.msn.com
+DOMAIN-SUFFIX,c.msn.com
+DOMAIN-SUFFIX,c.msn.com.cn
+DOMAIN-SUFFIX,catalog.video.msn.com
+DOMAIN-SUFFIX,h.msn.com
+DOMAIN-SUFFIX,mobileads.msn.com
+DOMAIN-SUFFIX,popup.msn.com
+DOMAIN-SUFFIX,r.msn.com
+DOMAIN-SUFFIX,rad.msn.com
+DOMAIN-SUFFIX,rmads.eu.msn.com
+DOMAIN-SUFFIX,rmads.msn.com
+DOMAIN-SUFFIX,toolbar.msn.com
+DOMAIN-SUFFIX,udc.msn.com
+DOMAIN-SUFFIX,unicast.msn.com
+DOMAIN-SUFFIX,otf.msn.com
+DOMAIN-SUFFIX,ads.eu.msn.com
+DOMAIN-SUFFIX,ads.msn.com
+DOMAIN-SUFFIX,expdb2.msn.com
+DOMAIN-SUFFIX,g.msn.com
+DOMAIN-SUFFIX,proxypage.msn.com
+DOMAIN-SUFFIX,rel.msn.com
+DOMAIN-SUFFIX,srtb.msn.com
+DOMAIN-SUFFIX,analytics.msn.com
+DOMAIN-SUFFIX,analytics.msnbc.msn.com
+DOMAIN-SUFFIX,partner.video.syndication.msn.com
+DOMAIN-SUFFIX,c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
+DOMAIN-SUFFIX,expbl2ro.xbox.com
+DOMAIN-SUFFIX,click.engage.xbox.com
 DOMAIN-SUFFIX,go.trouter.skype.com
 ## > 墨迹-ads
 DOMAIN-SUFFIX,ad.api.moji.com
@@ -2919,7 +2952,6 @@ DOMAIN-SUFFIX,store.ptqy.gitv.tv
 DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
 DOMAIN-SUFFIX,traffic.uusee.com
 DOMAIN-SUFFIX,bfshan.cn
-DOMAIN-SUFFIX,0.r.msn.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,001union.com
 DOMAIN-SUFFIX,0086555.com
@@ -3322,8 +3354,6 @@ DOMAIN-SUFFIX,a.198banjia.com
 DOMAIN-SUFFIX,a.53yao.com
 DOMAIN-SUFFIX,a.5ykj.com
 DOMAIN-SUFFIX,a.80982.org
-DOMAIN-SUFFIX,a.ads1.msn.com
-DOMAIN-SUFFIX,a.ads2.msn.com
 DOMAIN-SUFFIX,a.armystar.com
 DOMAIN-SUFFIX,a.baiy.net
 DOMAIN-SUFFIX,a.baomihua.com
@@ -3446,8 +3476,6 @@ DOMAIN-SUFFIX,abcj.dooccn.com
 DOMAIN-SUFFIX,ab-gb.mgid.com
 DOMAIN-SUFFIX,ac.atpanel.com
 DOMAIN-SUFFIX,ac.mmstat.com
-DOMAIN-SUFFIX,ac2.msn.com
-DOMAIN-SUFFIX,ac3.msn.com
 DOMAIN-SUFFIX,acasys88.cn
 DOMAIN-SUFFIX,access.njherald.com
 DOMAIN-SUFFIX,ac-gb.mgid.com
@@ -3757,10 +3785,8 @@ DOMAIN-SUFFIX,adrotator.se
 DOMAIN-SUFFIX,adrs.sdo.com
 DOMAIN-SUFFIX,adrunnr.com
 DOMAIN-SUFFIX,ads1.msads.net
-DOMAIN-SUFFIX,ads1.msn.com
 DOMAIN-SUFFIX,ads2.contentabc.com
 DOMAIN-SUFFIX,ads2.msads.net
-DOMAIN-SUFFIX,ads2.msn.com
 DOMAIN-SUFFIX,ads2.opensubtitles.org
 DOMAIN-SUFFIX,ads8.com
 DOMAIN-SUFFIX,ads80.com
@@ -3794,7 +3820,6 @@ DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,adsunflower.com
 DOMAIN-SUFFIX,adsunion.com
 DOMAIN-SUFFIX,ad-survey.com
-DOMAIN-SUFFIX,adsyndication.msn.com
 DOMAIN-SUFFIX,adsys.chinacloudapp.cn
 DOMAIN-SUFFIX,adsys.sinovision.net
 DOMAIN-SUFFIX,adsystem.wasu.tv
@@ -4105,7 +4130,6 @@ DOMAIN-SUFFIX,ayabreya.xyz
 DOMAIN-SUFFIX,b.53yao.com
 DOMAIN-SUFFIX,b.77vcd.com
 DOMAIN-SUFFIX,b.9dreams.net
-DOMAIN-SUFFIX,b.ads1.msn.com
 DOMAIN-SUFFIX,b.aowugame.com
 DOMAIN-SUFFIX,b.babylon.com
 DOMAIN-SUFFIX,b.baiy.net
@@ -4395,8 +4419,6 @@ DOMAIN-SUFFIX,c.minisplat.cn
 DOMAIN-SUFFIX,c.mkmp365.com
 DOMAIN-SUFFIX,c.mnjkw.cn
 DOMAIN-SUFFIX,c.mobishu.com
-DOMAIN-SUFFIX,c.msn.com
-DOMAIN-SUFFIX,c.msn.com.cn
 DOMAIN-SUFFIX,c.netu.tv
 DOMAIN-SUFFIX,c.ningbojipiao.com
 DOMAIN-SUFFIX,c.ns8d.com
@@ -4490,7 +4512,6 @@ DOMAIN-SUFFIX,cast.innity.com
 DOMAIN-SUFFIX,cast.ra.icast.cn
 DOMAIN-SUFFIX,cast-bid27-j.adtdp.com
 DOMAIN-SUFFIX,castplatform.com
-DOMAIN-SUFFIX,catalog.video.msn.com
 DOMAIN-SUFFIX,cayanfang.com
 DOMAIN-SUFFIX,cb.h5.coffeedak.cn
 DOMAIN-SUFFIX,cbs.wondershare.com
@@ -5848,7 +5869,6 @@ DOMAIN-SUFFIX,gzqudou.com
 DOMAIN-SUFFIX,h.canmg.cn
 DOMAIN-SUFFIX,h.holder.com.ua
 DOMAIN-SUFFIX,h.laojiayoufang.com
-DOMAIN-SUFFIX,h.msn.com
 DOMAIN-SUFFIX,h.sora.yoyi.com.cn
 DOMAIN-SUFFIX,h01.hotrank.com.tw
 DOMAIN-SUFFIX,h1.18sd.cn
@@ -7256,7 +7276,6 @@ DOMAIN-SUFFIX,mobadme.jp
 DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobfox.com
 DOMAIN-SUFFIX,mobgi.com
-DOMAIN-SUFFIX,mobileads.msn.com
 DOMAIN-SUFFIX,mobiledissector.com
 DOMAIN-SUFFIX,mobile-pubt.ele.me
 DOMAIN-SUFFIX,mobile-service.segment.com
@@ -7713,7 +7732,6 @@ DOMAIN-SUFFIX,pop.91mangrandi.com
 DOMAIN-SUFFIX,pop.code.mytanwan.com
 DOMAIN-SUFFIX,pop.code.poyang.cn
 DOMAIN-SUFFIX,popup.jointreport-switch.com
-DOMAIN-SUFFIX,popup.msn.com
 DOMAIN-SUFFIX,popupad.cn
 DOMAIN-SUFFIX,post.ra.icast.cn
 DOMAIN-SUFFIX,poster.weather.com.cn
@@ -7875,7 +7893,6 @@ DOMAIN-SUFFIX,r.0.0.0.0.cn
 DOMAIN-SUFFIX,r.254a.com
 DOMAIN-SUFFIX,r.5207470.com
 DOMAIN-SUFFIX,r.bxb.oupeng.com
-DOMAIN-SUFFIX,r.msn.com
 DOMAIN-SUFFIX,r.myadx.net
 DOMAIN-SUFFIX,r.ow.0.0.0.0.cn
 DOMAIN-SUFFIX,r.pixgold.com
@@ -7885,7 +7902,6 @@ DOMAIN-SUFFIX,r.youmi.net
 DOMAIN-SUFFIX,r.zlongad.com
 DOMAIN-SUFFIX,r8nu86wg.me
 DOMAIN-SUFFIX,rack.bauermedia.co.uk
-DOMAIN-SUFFIX,rad.msn.com
 DOMAIN-SUFFIX,rad.reporo.net
 DOMAIN-SUFFIX,radar.cedexis.com
 DOMAIN-SUFFIX,raeqqe.cn
@@ -7956,8 +7972,6 @@ DOMAIN-SUFFIX,rjs.niuxgame77.com
 DOMAIN-SUFFIX,rk.rongchengxxw.com
 DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rm.ra.icast.cn
-DOMAIN-SUFFIX,rmads.eu.msn.com
-DOMAIN-SUFFIX,rmads.msn.com
 DOMAIN-SUFFIX,rmcxw.cn
 DOMAIN-SUFFIX,rmtx.ra.icast.cn
 DOMAIN-SUFFIX,rmw.jdburl.com
@@ -8634,7 +8648,6 @@ DOMAIN-SUFFIX,tns-counter.ru
 DOMAIN-SUFFIX,token.rubiconproject.com
 DOMAIN-SUFFIX,tongqing2015.com
 DOMAIN-SUFFIX,tool.btrabbit.la
-DOMAIN-SUFFIX,toolbar.msn.com
 DOMAIN-SUFFIX,toourbb.com
 DOMAIN-SUFFIX,top.h.qhimg.com
 DOMAIN-SUFFIX,top.h.qhmsg.com
@@ -8748,7 +8761,6 @@ DOMAIN-SUFFIX,ucqq.cnsptv.com.cn
 DOMAIN-SUFFIX,ucrzgcs.cn
 DOMAIN-SUFFIX,ucxxii.com
 DOMAIN-SUFFIX,udata.mixmarket.biz
-DOMAIN-SUFFIX,udc.msn.com
 DOMAIN-SUFFIX,udm.scorecardresearch.com
 DOMAIN-SUFFIX,udrwyjpwjfeg.com
 DOMAIN-SUFFIX,ue.ueadlian.com
@@ -8778,7 +8790,6 @@ DOMAIN-SUFFIX,un.winasdaq.com
 DOMAIN-SUFFIX,un1.takefoto.cn
 DOMAIN-SUFFIX,undm.qibulo.com
 DOMAIN-SUFFIX,unicast.ign.com
-DOMAIN-SUFFIX,unicast.msn.com
 DOMAIN-SUFFIX,unilog.wostore.cn
 DOMAIN-SUFFIX,unimhk.com
 DOMAIN-SUFFIX,union.baidustatic.guannin.com
@@ -9586,7 +9597,6 @@ DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,lkt75d.cn
 DOMAIN-SUFFIX,umtrack.com
 DOMAIN-SUFFIX,mlog.aipai.com
-DOMAIN-SUFFIX,otf.msn.com
 DOMAIN-SUFFIX,www.flash.cn
 DOMAIN-SUFFIX,www.2144.cn
 DOMAIN-SUFFIX,54kfqq.com
@@ -10544,7 +10554,6 @@ DOMAIN-SUFFIX,bxjt518.com
 DOMAIN-SUFFIX,bycxsh.com
 DOMAIN-SUFFIX,bym03.cn
 DOMAIN-SUFFIX,byujf.cn
-DOMAIN-SUFFIX,c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 DOMAIN-SUFFIX,c.tvsou.com
 DOMAIN-SUFFIX,c.xiaobaipan.com
 DOMAIN-SUFFIX,c1.china.cn
@@ -12832,11 +12841,9 @@ DOMAIN-SUFFIX,ad-bg.adwo.com
 DOMAIN-SUFFIX,ad-count.adwo.com
 DOMAIN-SUFFIX,ads.979799777.com
 DOMAIN-SUFFIX,ads.creative-serving.com
-DOMAIN-SUFFIX,ads.eu.msn.com
 DOMAIN-SUFFIX,ads.gionee.com
 DOMAIN-SUFFIX,ads.heyzap.com
 DOMAIN-SUFFIX,ads.mopud.com
-DOMAIN-SUFFIX,ads.msn.com
 DOMAIN-SUFFIX,ads.ninemsn.com.au
 DOMAIN-SUFFIX,ads.oneway.mobi
 DOMAIN-SUFFIX,ads.oppomobile.com
@@ -16240,7 +16247,6 @@ DOMAIN-SUFFIX,clarium.global.ssl.fastly.net
 DOMAIN-SUFFIX,clc.stackoverflow.com
 DOMAIN-SUFFIX,clck.yandex.com
 DOMAIN-SUFFIX,click.appinthestore.com
-DOMAIN-SUFFIX,click.engage.xbox.com
 DOMAIN-SUFFIX,click.jasmin.com
 DOMAIN-SUFFIX,click.livejasmin.com
 DOMAIN-SUFFIX,click.oneplus.com
@@ -16641,8 +16647,6 @@ DOMAIN-SUFFIX,evnt.iol.it
 DOMAIN-SUFFIX,evt.izooto.com
 DOMAIN-SUFFIX,evt.klarna.com
 DOMAIN-SUFFIX,exd4.destinia.com.au
-DOMAIN-SUFFIX,expbl2ro.xbox.com
-DOMAIN-SUFFIX,expdb2.msn.com
 DOMAIN-SUFFIX,experience.contextly.com
 DOMAIN-SUFFIX,extra.tvmaze.com
 DOMAIN-SUFFIX,f.staticlp.com
@@ -16679,7 +16683,6 @@ DOMAIN-SUFFIX,g.bitmag.com.br
 DOMAIN-SUFFIX,g.ign.com
 DOMAIN-SUFFIX,g.itespresso.fr
 DOMAIN-SUFFIX,g.mashable.com
-DOMAIN-SUFFIX,g.msn.com
 DOMAIN-SUFFIX,g.silicon.de
 DOMAIN-SUFFIX,g.siliconweek.es
 DOMAIN-SUFFIX,g.techweekeurope.it
@@ -17217,7 +17220,6 @@ DOMAIN-SUFFIX,production-mcs.lvp.llnw.net
 DOMAIN-SUFFIX,production.airswap.io
 DOMAIN-SUFFIX,production.mcs.delve.cust.lldns.net
 DOMAIN-SUFFIX,profiling.avandor.com
-DOMAIN-SUFFIX,proxypage.msn.com
 DOMAIN-SUFFIX,prstats.postrelease.com
 DOMAIN-SUFFIX,ps.ecosia.org
 DOMAIN-SUFFIX,pt.crossmediaservices.com
@@ -17264,7 +17266,6 @@ DOMAIN-SUFFIX,recommendation.24.com
 DOMAIN-SUFFIX,redeye.williamhill.com
 DOMAIN-SUFFIX,referer.pixplug.in
 DOMAIN-SUFFIX,rek.www.wp.pl
-DOMAIN-SUFFIX,rel.msn.com
 DOMAIN-SUFFIX,rel.nextinpact.com
 DOMAIN-SUFFIX,rel2.nextinpact.com
 DOMAIN-SUFFIX,report-zt.allmusic.com
@@ -17479,7 +17480,6 @@ DOMAIN-SUFFIX,speedtrap.shopdirect.com
 DOMAIN-SUFFIX,speee-ad.akamaized.net
 DOMAIN-SUFFIX,spotlight.accuweather.com
 DOMAIN-SUFFIX,srt.pch.com
-DOMAIN-SUFFIX,srtb.msn.com
 DOMAIN-SUFFIX,ssc.api.bbc.com
 DOMAIN-SUFFIX,ssrlot.lotoquebec.com
 DOMAIN-SUFFIX,sstats.mora.jp
@@ -30300,7 +30300,6 @@ DOMAIN-SUFFIX,mamamiyu.com
 DOMAIN-SUFFIX,mamphxagal.com
 DOMAIN-SUFFIX,mamydirect.com
 DOMAIN-SUFFIX,man7777.com
-DOMAIN-SUFFIX,109-204-26-16.netconnexion.managedbroadband.co.uk
 DOMAIN-SUFFIX,managewp.org
 DOMAIN-SUFFIX,manatomicbru.site
 DOMAIN-SUFFIX,manfys.com
@@ -31033,9 +31032,7 @@ DOMAIN-SUFFIX,msgs.jp
 DOMAIN-SUFFIX,msgtag.com
 DOMAIN-SUFFIX,msgwxozk.com
 DOMAIN-SUFFIX,msigpurubzkm.com
-DOMAIN-SUFFIX,partner.video.syndication.msn.com
-DOMAIN-SUFFIX,analytics.msn.com
-DOMAIN-SUFFIX,analytics.msnbc.msn.com
+DOMAIN-SUFFIX,109-204-26-16.netconnexion.managedbroadband.co.uk
 DOMAIN-SUFFIX,analytics.msnbc.com
 DOMAIN-SUFFIX,msparktrk.com
 DOMAIN-SUFFIX,mspgkbvxtl.com
