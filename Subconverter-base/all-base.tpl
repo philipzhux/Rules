@@ -3,16 +3,16 @@
 mixed-port: {{ local.clash.mixed_port }}
 redir-port: {{ local.clash.redir_port}}
 allow-lan: {{ local.clash.allow_lan }}
+# bind-address: "*"
+# ipv6: false # when ipv6 is false, each clash dial with ipv6, but it's not affect the response of the dns server, default is false
 mode: Rule
 log-level: {{ local.clash.log_level }}
 external-controller: {{ local.clash.api_port}}
 
 secret: ''
-experimental:
-  ignore-resolve-fail: true
 {% if exists("request.clash.dns") %}
 {% if request.clash.dns == "cfw" %}
-  interface-name: WLAN
+interface-name: WLAN
 #authentication:
 #  - "firefly:960923"
 hosts:
@@ -22,7 +22,7 @@ dns:
   listen: 127.0.0.1:53
 {% endif %}
 {% if request.clash.dns == "cfa" %}
-#  interface-name: WLAN
+#interface-name: WLAN
 #authentication:
 #  - "firefly:960923"
 hosts:
@@ -32,7 +32,7 @@ dns:
   listen: 127.0.0.1:1053
 {% endif %}
 {% else %}
-#  interface-name: WLAN
+#interface-name: WLAN
 #authentication:
 #  - "firefly:960923"
 hosts:
