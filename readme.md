@@ -36,4 +36,4 @@
 Domestic-Services | Global-Services 只是作为引用小切片列出, 与 Domestic.list | GlobalMedia.list 并非相互对映，具体包含关系以列表注释为准。
 
 相关引用:
-[EnergizedProtection](https://github.com/EnergizedProtection/block/tree/master/extensions/regional) | [Telegram CIDR](https://core.telegram.org/resources/cidr.txt)
+[EnergizedProtection](https://github.com/EnergizedProtection/block) | [Telegram CIDR](https://core.telegram.org/resources/cidr.txt)
