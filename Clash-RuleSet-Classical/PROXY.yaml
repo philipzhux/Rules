@@ -9,7 +9,6 @@ payload:
   ## > Adobe
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,omtrdc.net
-  - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,adobelogin.com
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,adobesc.com
@@ -20,7 +19,36 @@ payload:
   - DOMAIN-SUFFIX,adobeoobe.com
   - DOMAIN-SUFFIX,behance.net
   - DOMAIN-SUFFIX,edgefonts.net
+  - DOMAIN-SUFFIX,acrobat.com
+  - DOMAIN-SUFFIX,adbecrsl.com
+  - DOMAIN-SUFFIX,bam.nr-data.net
+  - DOMAIN-SUFFIX,businesscatalyst.com
+  - DOMAIN-SUFFIX,creativecloud.com
+  - DOMAIN-SUFFIX,ctldl.windowsupdate.com
+  - DOMAIN-SUFFIX,demandbase.com
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,echocdn.com
+  - DOMAIN-SUFFIX,echosign.com
+  - DOMAIN-SUFFIX,ftcdn.net
+  - DOMAIN-SUFFIX,geotrust.com
+  - DOMAIN-SUFFIX,globalsign.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,macromedia.com
+  - DOMAIN-SUFFIX,newrelic.com
+  - DOMAIN-SUFFIX,omniroot.com
+  - DOMAIN-SUFFIX,omniture.com
+  - DOMAIN-SUFFIX,photoshop.com
+  - DOMAIN-SUFFIX,symantec.com
+  - DOMAIN-SUFFIX,symcb.com
+  - DOMAIN-SUFFIX,symcd.com
+  - DOMAIN-SUFFIX,thawte.com
+  - DOMAIN-SUFFIX,verisign.com
+  - DOMAIN-SUFFIX,worldsecuresystems.com
+  - DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
+  - DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
   ## > Typekit
+  - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   ## > Amazon
   - DOMAIN-SUFFIX,amazon.com
@@ -187,7 +215,9 @@ payload:
   - DOMAIN-SUFFIX,dmm-extension.com
   ## > Docker
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerhub.com
+  - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN,d1q6f0aelx0por.cloudfront.net
   - DOMAIN,d2wy8f7a9ursnm.cloudfront.net
   - DOMAIN,d36jcksde1wxzq.cloudfront.net

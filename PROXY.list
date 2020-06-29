@@ -8,7 +8,6 @@ DOMAIN-SUFFIX,addtoany.com
 ## > Adobe
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,adobelogin.com
 DOMAIN-SUFFIX,adobedtm.com
 DOMAIN-SUFFIX,adobesc.com
@@ -19,7 +18,36 @@ DOMAIN-SUFFIX,adobedc.net
 DOMAIN-SUFFIX,adobeoobe.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,edgefonts.net
+DOMAIN-SUFFIX,acrobat.com
+DOMAIN-SUFFIX,adbecrsl.com
+DOMAIN-SUFFIX,bam.nr-data.net
+DOMAIN-SUFFIX,businesscatalyst.com
+DOMAIN-SUFFIX,creativecloud.com
+DOMAIN-SUFFIX,ctldl.windowsupdate.com
+DOMAIN-SUFFIX,demandbase.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,echocdn.com
+DOMAIN-SUFFIX,echosign.com
+DOMAIN-SUFFIX,ftcdn.net
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,macromedia.com
+DOMAIN-SUFFIX,newrelic.com
+DOMAIN-SUFFIX,omniroot.com
+DOMAIN-SUFFIX,omniture.com
+DOMAIN-SUFFIX,photoshop.com
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,verisign.com
+DOMAIN-SUFFIX,worldsecuresystems.com
+DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
+DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 ## > Typekit
+DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 ## > Amazon
 DOMAIN-SUFFIX,amazon.com
@@ -169,7 +197,6 @@ DOMAIN-SUFFIX,cordcloud.org
 DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,csis-prod.s3.amazonaws.com
 ## > Digicert
-DOMAIN-SUFFIX,digicert.com
 ## > Discord
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
@@ -186,7 +213,9 @@ DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm-extension.com
 ## > Docker
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerhub.com
+DOMAIN-SUFFIX,compose-spec.io
 DOMAIN,d1q6f0aelx0por.cloudfront.net
 DOMAIN,d2wy8f7a9ursnm.cloudfront.net
 DOMAIN,d36jcksde1wxzq.cloudfront.net
@@ -381,7 +410,6 @@ DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
 DOMAIN-SUFFIX,globalsign.ch
 DOMAIN-SUFFIX,globalsign.co.uk
-DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.com.au
 DOMAIN-SUFFIX,globalsign.com.hk
 DOMAIN-SUFFIX,globalsign.com.sg
@@ -913,7 +941,6 @@ DOMAIN-SUFFIX,verisign.biz
 DOMAIN-SUFFIX,verisign.ch
 DOMAIN-SUFFIX,verisign.co.in
 DOMAIN-SUFFIX,verisign.co.uk
-DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,verisign.com.au
 DOMAIN-SUFFIX,verisign.com.br
 DOMAIN-SUFFIX,verisign.com.cn
@@ -6911,7 +6938,6 @@ DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,danilo.to
 DOMAIN-SUFFIX,dayone.me
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,deskconnect.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,disq.us
@@ -6936,7 +6962,6 @@ DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,getfoxyProxy.org
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,go.jp
-DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,imore.com
@@ -6961,7 +6986,6 @@ DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,localnetwork.uop
 DOMAIN-SUFFIX,macid.co
-DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,manhuaren.com
 DOMAIN-SUFFIX,marketwatch.com
@@ -7012,7 +7036,6 @@ DOMAIN-SUFFIX,luluku.pw
 DOMAIN-SUFFIX,supermariorun.com
 DOMAIN-SUFFIX,surge.run
 DOMAIN-SUFFIX,symauth.com
-DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,techcrunch.com
