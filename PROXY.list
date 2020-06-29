@@ -26,13 +26,10 @@ DOMAIN-SUFFIX,creativecloud.com
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,demandbase.com
 DOMAIN-SUFFIX,demdex.net
-DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,echocdn.com
 DOMAIN-SUFFIX,echosign.com
 DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,geotrust.com
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,omniroot.com
@@ -42,7 +39,6 @@ DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,thawte.com
-DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,worldsecuresystems.com
 DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
 DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
@@ -197,6 +193,7 @@ DOMAIN-SUFFIX,cordcloud.org
 DOMAIN-SUFFIX,csis.org
 DOMAIN-SUFFIX,csis-prod.s3.amazonaws.com
 ## > Digicert
+DOMAIN-SUFFIX,digicert.com
 ## > Discord
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.media
@@ -410,6 +407,7 @@ DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
 DOMAIN-SUFFIX,globalsign.ch
 DOMAIN-SUFFIX,globalsign.co.uk
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.com.au
 DOMAIN-SUFFIX,globalsign.com.hk
 DOMAIN-SUFFIX,globalsign.com.sg
@@ -418,6 +416,8 @@ DOMAIN-SUFFIX,globalsign.eu
 DOMAIN-SUFFIX,globalsign.fr
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.nl
+## > Godaddy
+DOMAIN-SUFFIX,godaddy.com
 ## > Heroku
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,herokuapp.com
@@ -941,6 +941,7 @@ DOMAIN-SUFFIX,verisign.biz
 DOMAIN-SUFFIX,verisign.ch
 DOMAIN-SUFFIX,verisign.co.in
 DOMAIN-SUFFIX,verisign.co.uk
+DOMAIN-SUFFIX,verisign.com
 DOMAIN-SUFFIX,verisign.com.au
 DOMAIN-SUFFIX,verisign.com.br
 DOMAIN-SUFFIX,verisign.com.cn
@@ -1608,7 +1609,6 @@ DOMAIN-SUFFIX,appannie.com
 DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,appsocks.net
-DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,ar.hao123.com
 DOMAIN-SUFFIX,archive.fo
@@ -2102,7 +2102,6 @@ DOMAIN-SUFFIX,cdcparty.com
 DOMAIN-SUFFIX,cdef.org
 DOMAIN-SUFFIX,cdig.info
 DOMAIN-SUFFIX,cdjp.org
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-images.mailchimp.com
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com
 DOMAIN-SUFFIX,cdn.discogs.com
@@ -6913,7 +6912,6 @@ DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,async.be
@@ -6973,7 +6971,6 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,ishowsapp.com
 DOMAIN-SUFFIX,itgonglun.com
-DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,js.revsci.net
 DOMAIN-SUFFIX,jshint.com
 DOMAIN-SUFFIX,justgetflux.com

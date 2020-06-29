@@ -27,13 +27,10 @@ payload:
   - DOMAIN-SUFFIX,ctldl.windowsupdate.com
   - DOMAIN-SUFFIX,demandbase.com
   - DOMAIN-SUFFIX,demdex.net
-  - DOMAIN-SUFFIX,digicert.com
   - DOMAIN-SUFFIX,echocdn.com
   - DOMAIN-SUFFIX,echosign.com
   - DOMAIN-SUFFIX,ftcdn.net
   - DOMAIN-SUFFIX,geotrust.com
-  - DOMAIN-SUFFIX,globalsign.com
-  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,macromedia.com
   - DOMAIN-SUFFIX,newrelic.com
   - DOMAIN-SUFFIX,omniroot.com
@@ -43,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,symcd.com
   - DOMAIN-SUFFIX,thawte.com
-  - DOMAIN-SUFFIX,verisign.com
   - DOMAIN-SUFFIX,worldsecuresystems.com
   - DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net
   - DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
@@ -421,6 +417,8 @@ payload:
   - DOMAIN-SUFFIX,globalsign.fr
   - DOMAIN-SUFFIX,globalsign.net
   - DOMAIN-SUFFIX,globalsign.nl
+  ## > Godaddy
+  - DOMAIN-SUFFIX,godaddy.com
   ## > Heroku
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
@@ -6942,7 +6940,6 @@ payload:
   - DOMAIN-SUFFIX,d.pr
   - DOMAIN-SUFFIX,danilo.to
   - DOMAIN-SUFFIX,dayone.me
-  - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,deskconnect.com
   - DOMAIN-SUFFIX,digitaltrends.com
   - DOMAIN-SUFFIX,disq.us
@@ -6967,7 +6964,6 @@ payload:
   - DOMAIN-SUFFIX,getfoxyProxy.org
   - DOMAIN-SUFFIX,ghostnoteapp.com
   - DOMAIN-SUFFIX,go.jp
-  - DOMAIN-SUFFIX,godaddy.com
   - DOMAIN-SUFFIX,icons8.com
   - DOMAIN-SUFFIX,ifttt.com
   - DOMAIN-SUFFIX,imore.com
@@ -6979,7 +6975,6 @@ payload:
   - DOMAIN-SUFFIX,ipn.li
   - DOMAIN-SUFFIX,ishowsapp.com
   - DOMAIN-SUFFIX,itgonglun.com
-  - DOMAIN-SUFFIX,itun.es
   - DOMAIN-SUFFIX,js.revsci.net
   - DOMAIN-SUFFIX,jshint.com
   - DOMAIN-SUFFIX,justgetflux.com
@@ -6992,7 +6987,6 @@ payload:
   - DOMAIN-SUFFIX,littlehj.com
   - DOMAIN-SUFFIX,localnetwork.uop
   - DOMAIN-SUFFIX,macid.co
-  - DOMAIN-SUFFIX,macromedia.com
   - DOMAIN-SUFFIX,macrumors.com
   - DOMAIN-SUFFIX,manhuaren.com
   - DOMAIN-SUFFIX,marketwatch.com
@@ -7043,7 +7037,6 @@ payload:
   - DOMAIN-SUFFIX,supermariorun.com
   - DOMAIN-SUFFIX,surge.run
   - DOMAIN-SUFFIX,symauth.com
-  - DOMAIN-SUFFIX,symcb.com
   - DOMAIN-SUFFIX,tapbots.com
   - DOMAIN-SUFFIX,tapbots.net
   - DOMAIN-SUFFIX,techcrunch.com
