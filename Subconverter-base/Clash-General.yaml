@@ -1,10 +1,9 @@
-port: 8888
-socks-port: 8889
+mixed-port: 8888
 redir-port: 8890
 allow-lan: true
 # bind-address: "*"
 # ipv6: false # when ipv6 is false, each clash dial with ipv6, but it's not affect the response of the dns server, default is false
-mode: Rule
+mode: rule
 log-level: info
 external-controller: 127.0.0.1:8080
 secret: ''
