@@ -5,7 +5,7 @@ redir-port: {{ local.clash.redir_port}}
 allow-lan: {{ local.clash.allow_lan }}
 # bind-address: "*"
 # ipv6: false # when ipv6 is false, each clash dial with ipv6, but it's not affect the response of the dns server, default is false
-mode: Rule
+mode: rule
 log-level: {{ local.clash.log_level }}
 external-controller: {{ local.clash.api_port}}
 
