@@ -18,8 +18,8 @@ interface-name: WLAN
 hosts:
 dns:
   enable: true
+  listen: 0.0.0.0:53
   ipv6: true
-  listen: 127.0.0.1:53
 {% endif %}
 {% if request.clash.dns == "cfa" %}
 #interface-name: WLAN
@@ -28,8 +28,8 @@ dns:
 hosts:
 dns:
   enable: true
-  ipv6: true
   listen: 127.0.0.1:1053
+  ipv6: true
 {% endif %}
 {% else %}
 #interface-name: WLAN
@@ -38,9 +38,14 @@ dns:
 hosts:
 dns:
   enable: true
-  ipv6: true
   listen: 127.0.0.1:1053
+  ipv6: true
 {% endif %}
+  # These nameservers are used to resolve the DNS nameserver hostnames below.
+  # Specify IP addresses only
+  default-nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
   enhanced-mode: fake-ip # redir-host #fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
