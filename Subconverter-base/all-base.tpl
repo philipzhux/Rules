@@ -100,6 +100,7 @@ dns:
   fallback-filter:
     geoip: true # default
     ipcidr: # ips in these subnets will be considered polluted
+      - 0.0.0.0/32
       - 240.0.0.0/4
 
 {% endif %}
