@@ -4,6 +4,7 @@ mixed-port: {{ local.clash.mixed_port }}
 redir-port: {{ local.clash.redir_port}}
 allow-lan: {{ local.clash.allow_lan }}
 # bind-address: "*"
+mode: rule
 # When set to false, resolver won't translate hostnames to IPv6 addresses
 ipv6: true
 log-level: {{ local.clash.log_level }}
