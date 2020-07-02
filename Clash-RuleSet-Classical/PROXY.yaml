@@ -419,6 +419,14 @@ payload:
   - DOMAIN-SUFFIX,globalsign.nl
   ## > Godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  ## > Hashicorp
+  - DOMAIN-SUFFIX,consul.io
+  - DOMAIN-SUFFIX,hashicorp.com
+  - DOMAIN-SUFFIX,nomadproject.io
+  - DOMAIN-SUFFIX,packer.io
+  - DOMAIN-SUFFIX,terraform.io
+  - DOMAIN-SUFFIX,vagrantup.com
+  - DOMAIN-SUFFIX,vaultproject.io
   ## > Heroku
   - DOMAIN-SUFFIX,heroku.com
   - DOMAIN-SUFFIX,herokuapp.com
