@@ -50,7 +50,6 @@ payload:
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,images-amazon.com
-  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
   - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,amazon.co.jp
@@ -215,7 +214,6 @@ payload:
   - DOMAIN-SUFFIX,dockerhub.com
   - DOMAIN-SUFFIX,compose-spec.io
   - DOMAIN,d1q6f0aelx0por.cloudfront.net
-  - DOMAIN,d2wy8f7a9ursnm.cloudfront.net
   - DOMAIN,d36jcksde1wxzq.cloudfront.net
   ## > Dropbox
   - DOMAIN-SUFFIX,db.tt
@@ -1831,8 +1829,6 @@ payload:
   - DOMAIN-SUFFIX,baywords.com
   - DOMAIN-SUFFIX,bb-chat.tv
   - DOMAIN-SUFFIX,bb.ttv.com.tw
-  - DOMAIN-SUFFIX,bbc.in
-  - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbchat.tv
   - DOMAIN-SUFFIX,bbg.gov
   - DOMAIN-SUFFIX,bbkz.com
