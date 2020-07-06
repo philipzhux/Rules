@@ -128,7 +128,11 @@ DOMAIN-SUFFIX,hao123img.com
 DOMAIN-SUFFIX,baifae.com
 DOMAIN-SUFFIX,bdydns.cn
 DOMAIN-SUFFIX,xianfae.com
-# > 太和音乐
+## >> 太和音乐
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,qianqian.com
 DOMAIN-SUFFIX,dmhmusic.com
+## >> 作业帮
+DOMAIN-SUFFIX,zuoyebang.cc
+DOMAIN-SUFFIX,zuoyebang.com
+DOMAIN-SUFFIX,zybang.com
