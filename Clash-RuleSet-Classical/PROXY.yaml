@@ -283,7 +283,10 @@ payload:
   - DOMAIN-SUFFIX,ebay.ie
   - DOMAIN-SUFFIX,ebay.in
   - DOMAIN-SUFFIX,ebay.it
+  - DOMAIN-SUFFIX,ebay.lt
   - DOMAIN-SUFFIX,ebay.nl
+  - DOMAIN-SUFFIX,ebay.ph
+  - DOMAIN-SUFFIX,ebay.pk
   - DOMAIN-SUFFIX,ebay.pl
   - DOMAIN-SUFFIX,ebaycdn.net
   - DOMAIN-SUFFIX,ebayrtm.com
@@ -292,6 +295,15 @@ payload:
   - DOMAIN-SUFFIX,ebaymainstreet.com
   - DOMAIN-SUFFIX,ebayprivacycenter.com
   - DOMAIN-SUFFIX,ebaystatic.com
+  - DOMAIN-SUFFIX,e-bay.it
+  - DOMAIN-SUFFIX,ebay-us.com
+  - DOMAIN-SUFFIX,ebay.co.nz
+  - DOMAIN-SUFFIX,ebay.co.ve
+  - DOMAIN-SUFFIX,ebay.co.za
+  - DOMAIN-SUFFIX,ebay.com.ar
+  - DOMAIN-SUFFIX,ebay.com.ec
+  - DOMAIN-SUFFIX,ebay.com.mt
+  - DOMAIN-SUFFIX,ebay.com.ph
   ## > Entermediadb
   - DOMAIN-SUFFIX,entermediadb.net
   - DOMAIN-SUFFIX,entermediadb.org
@@ -700,6 +712,14 @@ payload:
   - DOMAIN-SUFFIX,samsung.com
   - DOMAIN-SUFFIX,samsungapps.com
   - DOMAIN-SUFFIX,samsungcloud.com
+  - DOMAIN-SUFFIX,galaxymobile.jp
+  - DOMAIN-SUFFIX,game-platform.net
+  - DOMAIN-SUFFIX,knoxemm.com
+  - DOMAIN-SUFFIX,samsungdm.com
+  - DOMAIN-SUFFIX,samsungeshop.com.cn
+  - DOMAIN-SUFFIX,samsunggalaxyfriends.com
+  - DOMAIN-SUFFIX,samsungknox.com
+  - DOMAIN-SUFFIX,samsungqbe.com
   ## > Secom
   - DOMAIN-SUFFIX,secom.co.jp
   - DOMAIN-SUFFIX,secomtrust.net
@@ -726,6 +746,12 @@ payload:
   - DOMAIN-SUFFIX,shp.ee
   ## > Signal
   - DOMAIN-SUFFIX,signal.org
+  ## > Sling
+  - DOMAIN-SUFFIX,dishworld.com
+  - DOMAIN-SUFFIX,slinginternational.com
+  - DOMAIN-SUFFIX,sling.com
+  - DOMAIN-SUFFIX,movenetworks.com
+  - DOMAIN-SUFFIX,movetv.com
   ## >Slack
   - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack.com
@@ -1125,11 +1151,28 @@ payload:
   ## > Xposed
   - DOMAIN-SUFFIX,xposed.info
   ## > Yandex
+  - DOMAIN-SUFFIX,yandex.az
+  - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.co.il
   - DOMAIN-SUFFIX,yandex.com
-  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yandex.com.am
+  - DOMAIN-SUFFIX,yandex.com.ge
+  - DOMAIN-SUFFIX,yandex.com.tr
+  - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.kg
+  - DOMAIN-SUFFIX,yandex.kz
+  - DOMAIN-SUFFIX,yandex.lt
+  - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.md
+  - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
-  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.tj
+  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.ua
+  - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,nic.yandex
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,141.8.128.0/18,no-resolve

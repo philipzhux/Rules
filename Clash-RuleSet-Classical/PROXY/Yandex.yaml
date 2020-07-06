@@ -1,10 +1,27 @@
 payload:
   ## > Yandex
+  - DOMAIN-SUFFIX,yandex.az
+  - DOMAIN-SUFFIX,yandex.by
+  - DOMAIN-SUFFIX,yandex.co.il
   - DOMAIN-SUFFIX,yandex.com
-  - DOMAIN-SUFFIX,yastatic.net
+  - DOMAIN-SUFFIX,yandex.com.am
+  - DOMAIN-SUFFIX,yandex.com.ge
+  - DOMAIN-SUFFIX,yandex.com.tr
+  - DOMAIN-SUFFIX,yandex.ee
+  - DOMAIN-SUFFIX,yandex.kg
+  - DOMAIN-SUFFIX,yandex.kz
+  - DOMAIN-SUFFIX,yandex.lt
+  - DOMAIN-SUFFIX,yandex.lv
+  - DOMAIN-SUFFIX,yandex.md
+  - DOMAIN-SUFFIX,yandex.net
   - DOMAIN-SUFFIX,yandex.ru
   - DOMAIN-SUFFIX,yandex.st
-  - DOMAIN-SUFFIX,yandex.net
+  - DOMAIN-SUFFIX,yandex.sx
+  - DOMAIN-SUFFIX,yandex.tj
+  - DOMAIN-SUFFIX,yandex.tm
+  - DOMAIN-SUFFIX,yandex.ua
+  - DOMAIN-SUFFIX,yandex.uz
+  - DOMAIN-SUFFIX,yastatic.net
   - DOMAIN-SUFFIX,nic.yandex
   - IP-CIDR,100.43.64.0/19,no-resolve
   - IP-CIDR,141.8.128.0/18,no-resolve
