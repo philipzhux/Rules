@@ -743,6 +743,9 @@ DOMAIN-SUFFIX,vdian.com
 DOMAIN-SUFFIX,geili.cn
 DOMAIN-SUFFIX,youshop04.com
 DOMAIN-SUFFIX,youshop03.com
+## > Keep
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keepcdn.com
 ## > 酷6
 DOMAIN-SUFFIX,ku6.cn
 DOMAIN-SUFFIX,ku6.com
@@ -2089,7 +2092,6 @@ DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,maoyun.tv
 DOMAIN-SUFFIX,mobike.com

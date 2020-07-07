@@ -744,6 +744,9 @@ payload:
   - DOMAIN-SUFFIX,geili.cn
   - DOMAIN-SUFFIX,youshop04.com
   - DOMAIN-SUFFIX,youshop03.com
+  ## > Keep
+  - DOMAIN-SUFFIX,gotokeep.com
+  - DOMAIN-SUFFIX,keepcdn.com
   ## > 酷6
   - DOMAIN-SUFFIX,ku6.cn
   - DOMAIN-SUFFIX,ku6.com
