@@ -119,6 +119,7 @@ payload:
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disneynow.com
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,conviva.com
@@ -306,6 +307,33 @@ payload:
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,nikkei.jp
   - DOMAIN-SUFFIX,nikkei.co.jp
+  ## > Nintendo
+  - DOMAIN-SUFFIX,nintendo-europe.com
+  - DOMAIN-SUFFIX,nintendo.at
+  - DOMAIN-SUFFIX,nintendo.be
+  - DOMAIN-SUFFIX,nintendo.ch
+  - DOMAIN-SUFFIX,nintendo.co.jp
+  - DOMAIN-SUFFIX,nintendo.co.kr
+  - DOMAIN-SUFFIX,nintendo.co.uk
+  - DOMAIN-SUFFIX,nintendo.co.za
+  - DOMAIN-SUFFIX,nintendo.com
+  - DOMAIN-SUFFIX,nintendo.com.hk
+  - DOMAIN-SUFFIX,nintendo.com.pt
+  - DOMAIN-SUFFIX,nintendo.de
+  - DOMAIN-SUFFIX,nintendo.dk
+  - DOMAIN-SUFFIX,nintendo.es
+  - DOMAIN-SUFFIX,nintendo.eu
+  - DOMAIN-SUFFIX,nintendo.fi
+  - DOMAIN-SUFFIX,nintendo.fr
+  - DOMAIN-SUFFIX,nintendo.it
+  - DOMAIN-SUFFIX,nintendo.net
+  - DOMAIN-SUFFIX,nintendo.nl
+  - DOMAIN-SUFFIX,nintendo.no
+  - DOMAIN-SUFFIX,nintendo.pt
+  - DOMAIN-SUFFIX,nintendo.ru
+  - DOMAIN-SUFFIX,nintendo.se
+  - DOMAIN-SUFFIX,nintendo.tw
+  - DOMAIN-SUFFIX,nintendoeurope.com
   ## > NY Times
   - DOMAIN,d1f1eryiqyjs0r.cloudfront.net
   - DOMAIN,d3lar09xbwlsge.cloudfront.net

@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,braze.com
   - DOMAIN-SUFFIX,disney-plus.net
   - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disneynow.com
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,conviva.com

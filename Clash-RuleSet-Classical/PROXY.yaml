@@ -1,5 +1,20 @@
 payload:
   ## 🍖 PROXY
+  ## > 9 NEWS
+  - DOMAIN-SUFFIX,9cdn.net
+  - DOMAIN-SUFFIX,9nation.com.au
+  - DOMAIN-SUFFIX,9news.com.au
+  - DOMAIN-SUFFIX,9now.com.au
+  - DOMAIN-SUFFIX,freeviewplus.net.au
+  - DOMAIN-SUFFIX,mi9.com.au
+  - DOMAIN-SUFFIX,mi9cdn.com
+  - DOMAIN-SUFFIX,nine.com.au
+  - DOMAIN-SUFFIX,nineentertainment.com.au
+  - DOMAIN-SUFFIX,nineentertainmentco.com.au
+  - DOMAIN-SUFFIX,ninemediaroom.com.au
+  - DOMAIN-SUFFIX,ninemsn.com.au
+  - DOMAIN-SUFFIX,static9.net.au
+  - DOMAIN-SUFFIX,yourtv.com.au
   ## > ACM
   - DOMAIN-SUFFIX,acm.org
   ## > Adblockplus
@@ -47,16 +62,37 @@ payload:
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   ## > Amazon
+  - DOMAIN-SUFFIX,amazon.ae
+  - DOMAIN-SUFFIX,amazon.ca
+  - DOMAIN-SUFFIX,amazon.cn
+  - DOMAIN-SUFFIX,amazon.co.jp
+  - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,amazon.com.au
+  - DOMAIN-SUFFIX,amazon.com.br
+  - DOMAIN-SUFFIX,amazon.com.mx
+  - DOMAIN-SUFFIX,amazon.com.tr
+  - DOMAIN-SUFFIX,amazon.de
+  - DOMAIN-SUFFIX,amazon.es
+  - DOMAIN-SUFFIX,amazon.fr
+  - DOMAIN-SUFFIX,amazon.in
+  - DOMAIN-SUFFIX,amazon.it
+  - DOMAIN-SUFFIX,amazon.jobs
+  - DOMAIN-SUFFIX,amazon.jp
+  - DOMAIN-SUFFIX,amazon.nl
+  - DOMAIN-SUFFIX,amazon.sg
+  - DOMAIN-SUFFIX,amazontrust.com
+  - DOMAIN-SUFFIX,amzn.com
+  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
+  - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,amplifyapp.com
+  - DOMAIN-SUFFIX,awsstatic.com
+  - DOMAIN-SUFFIX,awstrust.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,elasticbeanstalk.com
   - DOMAIN-SUFFIX,images-amazon.com
   - DOMAIN-SUFFIX,amazon-adsystem.com
-  - DOMAIN-SUFFIX,amazon.co.uk
-  - DOMAIN-SUFFIX,amazon.co.jp
-  - DOMAIN-SUFFIX,amazon.jp
-  - DOMAIN-SUFFIX,amazon.com.au
-  - DOMAIN-SUFFIX,amazon.de
-  - DOMAIN-SUFFIX,amzn.com
   - DOMAIN-SUFFIX,.aws
   - DOMAIN,d1b183sg0nvnuh.cloudfront.net
   - DOMAIN,d1c37gjwa26taa.cloudfront.net
@@ -1412,6 +1448,10 @@ payload:
   - DOMAIN-SUFFIX,zohoschools.com
   - DOMAIN-SUFFIX,zohostatic.in
   - DOMAIN-SUFFIX,zohowebstatic.com
+  ## > Zoom
+  - DOMAIN-SUFFIX,zoom.com
+  - DOMAIN-SUFFIX,zoom.com.cn
+  - DOMAIN-SUFFIX,zoom.us
   ## > Porn
   - DOMAIN-SUFFIX,91porn.com
   - DOMAIN-SUFFIX,avgle.com
@@ -7036,7 +7076,6 @@ payload:
   - DOMAIN-SUFFIX,zonghexinwen.com
   - DOMAIN-SUFFIX,zonghexinwen.net
   - DOMAIN-SUFFIX,zoogvpn.com
-  - DOMAIN-SUFFIX,zoom.us
   - DOMAIN-SUFFIX,zootool.com
   - DOMAIN-SUFFIX,zoozle.net
   - DOMAIN-SUFFIX,zorrovpn.com
