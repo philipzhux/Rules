@@ -1,4 +1,4 @@
-payloads:
+payload:
   ## > CCTV
   - DOMAIN-SUFFIX,cctv.cn
   - DOMAIN-SUFFIX,cctv.com
