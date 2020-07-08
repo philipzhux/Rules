@@ -523,6 +523,10 @@ payload:
   - DOMAIN-SUFFIX,kotlinlang.org
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,jsdelivr.com
+  ## > Jfrog
+  - DOMAIN-SUFFIX,jfrog.com
+  - DOMAIN-SUFFIX,jfrog.org
+  - DOMAIN-SUFFIX,bintray.com
   ## > Jquery
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,jquerymobile.com

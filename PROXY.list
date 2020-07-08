@@ -522,6 +522,10 @@ DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
+## > Jfrog
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org
+DOMAIN-SUFFIX,bintray.com
 ## > Jquery
 DOMAIN-SUFFIX,jquery.com
 DOMAIN-SUFFIX,jquerymobile.com
@@ -7124,7 +7128,6 @@ DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,async.be
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,bandisoft.com
-DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bkrtx.com
 DOMAIN-SUFFIX,blog.com
