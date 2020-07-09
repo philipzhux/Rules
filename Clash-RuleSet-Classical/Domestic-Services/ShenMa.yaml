@@ -1,5 +1,5 @@
 payload:
-  # >> SM
+  ## >> SM
   - DOMAIN-SUFFIX,sm.cn
   - DOMAIN-SUFFIX,shenma-inc.com
   - DOMAIN-SUFFIX,uczzd.com.cn
