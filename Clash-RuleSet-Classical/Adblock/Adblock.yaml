@@ -669,7 +669,6 @@ payload:
   - DOMAIN-SUFFIX,log.waimai.baidu.com
   - DOMAIN-SUFFIX,static.su.baidu.com
   - DOMAIN-SUFFIX,tuisong.baidu.com
-  - DOMAIN-SUFFIX,ufosdk.baidu.com
   - DOMAIN-SUFFIX,zhanzhang.baidu.com
   - DOMAIN-SUFFIX,duclick.baidu.com
   - DOMAIN-SUFFIX,baifen.music.baidu.com
@@ -732,7 +731,6 @@ payload:
   - DOMAIN-SUFFIX,tk.baidu.cn
   - DOMAIN-SUFFIX,tuisong.baidu.cn
   - DOMAIN-SUFFIX,ucstat.baidu.cn
-  - DOMAIN-SUFFIX,ufosdk.baidu.cn
   - DOMAIN-SUFFIX,union.baidu.cn
   - DOMAIN-SUFFIX,utility.baidu.cn
   - DOMAIN-SUFFIX,utk.baidu.cn
