@@ -508,8 +508,37 @@ payload:
   ## > Infrapedia
   - DOMAIN-SUFFIX,infrapedia.com
   ## > intel
+  - DOMAIN-SUFFIX,intc.com
+  - DOMAIN-SUFFIX,intel.ca
   - DOMAIN-SUFFIX,intel.cn
+  - DOMAIN-SUFFIX,intel.co.id
+  - DOMAIN-SUFFIX,intel.co.il
+  - DOMAIN-SUFFIX,intel.co.jp
+  - DOMAIN-SUFFIX,intel.co.kr
+  - DOMAIN-SUFFIX,intel.co.uk
+  - DOMAIN-SUFFIX,intel.co.za
   - DOMAIN-SUFFIX,intel.com
+  - DOMAIN-SUFFIX,intel.com.au
+  - DOMAIN-SUFFIX,intel.com.br
+  - DOMAIN-SUFFIX,intel.com.tr
+  - DOMAIN-SUFFIX,intel.com.tw
+  - DOMAIN-SUFFIX,intel.de
+  - DOMAIN-SUFFIX,intel.es
+  - DOMAIN-SUFFIX,intel.eu
+  - DOMAIN-SUFFIX,intel.fr
+  - DOMAIN-SUFFIX,intel.ie
+  - DOMAIN-SUFFIX,intel.in
+  - DOMAIN-SUFFIX,intel.it
+  - DOMAIN-SUFFIX,intel.la
+  - DOMAIN-SUFFIX,intel.me
+  - DOMAIN-SUFFIX,intel.ph
+  - DOMAIN-SUFFIX,intel.pl
+  - DOMAIN-SUFFIX,intel.ru
+  - DOMAIN-SUFFIX,intel.se
+  - DOMAIN-SUFFIX,intel.sg
+  - DOMAIN-SUFFIX,intel.vn
+  - DOMAIN-SUFFIX,intelrealsense.com
+  - DOMAIN-SUFFIX,researchintel.com
   ## > IPinfo
   - DOMAIN-SUFFIX,ipinfo.io
   ## > ip-api
@@ -631,15 +660,46 @@ payload:
   ## > Npmjs
   - DOMAIN-SUFFIX,npmjs.com
   ## > Nvidia
-  - DOMAIN-SUFFIX,nvidia.com
-  - DOMAIN-SUFFIX,nvidia.cn
   - DOMAIN-SUFFIX,geforce.cn
-  - DOMAIN-SUFFIX,geforce.com
-  - DOMAIN-SUFFIX,nvidia.co.jp
   - DOMAIN-SUFFIX,geforce.co.kr
-  - DOMAIN-SUFFIX,nvidia.co.kr
+  - DOMAIN-SUFFIX,geforce.co.uk
+  - DOMAIN-SUFFIX,geforce.com
   - DOMAIN-SUFFIX,geforce.com.tw
+  - DOMAIN-SUFFIX,gputechconf.cn
+  - DOMAIN-SUFFIX,gputechconf.co.kr
+  - DOMAIN-SUFFIX,gputechconf.com
+  - DOMAIN-SUFFIX,gputechconf.com.au
+  - DOMAIN-SUFFIX,gputechconf.com.tw
+  - DOMAIN-SUFFIX,gputechconf.eu
+  - DOMAIN-SUFFIX,gputechconf.in
+  - DOMAIN-SUFFIX,gputechconf.jp
+  - DOMAIN-SUFFIX,nvidia.asia
+  - DOMAIN-SUFFIX,nvidia.be
+  - DOMAIN-SUFFIX,nvidia.ch
+  - DOMAIN-SUFFIX,nvidia.cn
+  - DOMAIN-SUFFIX,nvidia.co.jp
+  - DOMAIN-SUFFIX,nvidia.co.kr
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,nvidia.com.au
+  - DOMAIN-SUFFIX,nvidia.com.br
+  - DOMAIN-SUFFIX,nvidia.com.tr
   - DOMAIN-SUFFIX,nvidia.com.tw
+  - DOMAIN-SUFFIX,nvidia.cz
+  - DOMAIN-SUFFIX,nvidia.de
+  - DOMAIN-SUFFIX,nvidia.dk
+  - DOMAIN-SUFFIX,nvidia.es
+  - DOMAIN-SUFFIX,nvidia.eu
+  - DOMAIN-SUFFIX,nvidia.fi
+  - DOMAIN-SUFFIX,nvidia.fr
+  - DOMAIN-SUFFIX,nvidia.it
+  - DOMAIN-SUFFIX,nvidia.lu
+  - DOMAIN-SUFFIX,nvidia.nl
+  - DOMAIN-SUFFIX,nvidia.no
+  - DOMAIN-SUFFIX,nvidia.pl
+  - DOMAIN-SUFFIX,nvidia.ro
+  - DOMAIN-SUFFIX,nvidia.ru
+  - DOMAIN-SUFFIX,nvidia.se
+  - DOMAIN-SUFFIX,shotwithgeforce.com
   - DOMAIN-SUFFIX,nvda.d2.sc.omtrdc.net
   ## > Oracle
   - DOMAIN-SUFFIX,oracle.com
@@ -7119,7 +7179,6 @@ payload:
   - DOMAIN-SUFFIX,async.be
   - DOMAIN-SUFFIX,att.com
   - DOMAIN-SUFFIX,bandisoft.com
-  - DOMAIN-SUFFIX,bintray.com
   - DOMAIN-SUFFIX,bit.com
   - DOMAIN-SUFFIX,bkrtx.com
   - DOMAIN-SUFFIX,blog.com

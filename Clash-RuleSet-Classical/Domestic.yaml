@@ -429,6 +429,22 @@ payload:
   - DOMAIN-SUFFIX,helpshift.com
   - DOMAIN-SUFFIX,paragon.com
   - DOMAIN-SUFFIX,unrealengine.com
+  ## > Everbright
+  - DOMAIN-SUFFIX,cebbank.com
+  - DOMAIN-SUFFIX,ceblease.com
+  - DOMAIN-SUFFIX,eb-ind.com
+  - DOMAIN-SUFFIX,ebasset.com
+  - DOMAIN-SUFFIX,ebchina.com
+  - DOMAIN-SUFFIX,ebchinaintl.com
+  - DOMAIN-SUFFIX,ebf.com.cn
+  - DOMAIN-SUFFIX,ebfcn.com
+  - DOMAIN-SUFFIX,ebfortune.com
+  - DOMAIN-SUFFIX,ebtrust.com
+  - DOMAIN-SUFFIX,ebscn-am.com
+  - DOMAIN-SUFFIX,ebscn.com
+  - DOMAIN-SUFFIX,everbright.com
+  - DOMAIN-SUFFIX,secec.com
+  - DOMAIN-SUFFIX,sunlife-everbright.com
   ## > 饿了么
   - DOMAIN-SUFFIX,ele.me
   - DOMAIN-SUFFIX,elemecdn.com
@@ -2451,7 +2467,6 @@ payload:
   - DOMAIN-SUFFIX,ccb.com
   - DOMAIN-SUFFIX,cdn20.com
   - DOMAIN-SUFFIX,cdnmama.com
-  - DOMAIN-SUFFIX,cebbank.com
   - DOMAIN-SUFFIX,cecdc.com
   - DOMAIN-SUFFIX,cecport.com
   - DOMAIN-SUFFIX,cffote.com

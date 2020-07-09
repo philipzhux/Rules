@@ -592,7 +592,6 @@ payload:
   - DOMAIN-SUFFIX,ers.baidu.com
   - DOMAIN-SUFFIX,f10.baidu.com
   - DOMAIN-SUFFIX,fclick.baidu.com
-  - DOMAIN-SUFFIX,feed.baidu.com
   - DOMAIN-SUFFIX,fexclick.baidu.com
   - DOMAIN-SUFFIX,g.baidu.com
   - DOMAIN-SUFFIX,gimg.baidu.com
