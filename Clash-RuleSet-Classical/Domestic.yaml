@@ -501,6 +501,90 @@ payload:
   - DOMAIN-SUFFIX,afpchinesesports.com
   - DOMAIN-SUFFIX,vwanjia.com
   - DOMAIN-SUFFIX,hoopchina.com
+  ## > ABC (农业银行)
+  - DOMAIN-SUFFIX,95599.cn
+  - DOMAIN-SUFFIX,abchina.com
+  - DOMAIN-SUFFIX,openaboc.cn
+  - DOMAIN-SUFFIX,openaboc.com.cn
+  - DOMAIN-SUFFIX,openaboc.com
+  - DOMAIN-SUFFIX,bscabank.com
+  ## > BOC (中国银行)
+  - DOMAIN-SUFFIX,bankofchina.com
+  - DOMAIN-SUFFIX,bank-of-china.com
+  - DOMAIN-SUFFIX,boc.cn
+  - DOMAIN-SUFFIX,bocfullertonbank.com
+  - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-SUFFIX,ftcwifi.com
+  - DOMAIN-SUFFIX,bochkonline.com
+  ## > BOCOM (交通银行)
+  - DOMAIN-SUFFIX,bankcomm.com
+  - DOMAIN-SUFFIX,95559.com.cn
+  - DOMAIN-SUFFIX,95559.sh.cn
+  - DOMAIN-SUFFIX,bankcomm.com.tw
+  - DOMAIN-SUFFIX,bankcomm.com.au
+  - DOMAIN-SUFFIX,bankcomm.com.mo
+  ## > CCB (建设银行)
+  - DOMAIN-SUFFIX,ccb.cn
+  - DOMAIN-SUFFIX,ccb.com
+  - DOMAIN-SUFFIX,ccb.com.cn
+  - DOMAIN-SUFFIX,ccbhome.net
+  - DOMAIN-SUFFIX,ccbhome.cn
+  - DOMAIN-SUFFIX,ccbcos.com
+  ## > CITIC (中信银行)
+  - DOMAIN-SUFFIX,citic.com
+  - DOMAIN-SUFFIX,citicgroup.com.cn
+  - DOMAIN-SUFFIX,group.citic
+  - DOMAIN-SUFFIX,集团.中信
+  - DOMAIN-SUFFIX,citics.com
+  - DOMAIN-SUFFIX,ecitic.com
+  - DOMAIN-SUFFIX,ecitic.net
+  - DOMAIN-SUFFIX,nic.citic
+  - DOMAIN-SUFFIX,citicbank.org
+  - DOMAIN-SUFFIX,citicbank.net
+  - DOMAIN-SUFFIX,citicbank.com
+  - DOMAIN-SUFFIX,citicbank.cn
+  - DOMAIN-SUFFIX,citicbank.net.cn
+  - DOMAIN-SUFFIX,citicbank.com.cn
+  - DOMAIN-SUFFIX,citicbank.org.cn
+  - DOMAIN-SUFFIX,cncbinternational.com
+  ## > CMB (招商银行)
+  - DOMAIN-SUFFIX,cmbimg.com
+  - DOMAIN-SUFFIX,8008205555.cn
+  - DOMAIN-SUFFIX,cmbchina.com
+  - DOMAIN-SUFFIX,cmbt.cn
+  - DOMAIN-SUFFIX,8008205555.com
+  - DOMAIN-SUFFIX,cmburl.cn
+  - DOMAIN-SUFFIX,cmbchina.biz
+  ## > ICBC (工商银行)
+  - DOMAIN-SUFFIX,icbc.com.cn
+  - DOMAIN-SUFFIX,95588.com.cn
+  - DOMAIN-SUFFIX,icbkfs.com
+  - DOMAIN-SUFFIX,icbc-us.com
+  - DOMAIN-SUFFIX,icbcnz.com
+  - DOMAIN-SUFFIX,icbcpl.com
+  - DOMAIN-SUFFIX,icbcindia.com
+  - DOMAIN-SUFFIX,icbc-ltd.com
+  - DOMAIN-SUFFIX,icbcmy.com
+  - DOMAIN-SUFFIX,icbcit.com
+  - DOMAIN-SUFFIX,95588.com
+  - DOMAIN-SUFFIX,icbcina.com
+  - DOMAIN-SUFFIX,icbkus.com
+  - DOMAIN-SUFFIX,dccnet.com.cn
+  ## > PSBC (邮政储蓄)
+  - DOMAIN-SUFFIX,psbc.com
+  - DOMAIN-SUFFIX,psbcoa.com.cn
+  - DOMAIN-SUFFIX,95580.net
+  ## > UnionPay (中国银联)
+  - DOMAIN-SUFFIX,chinaunionpay.com
+  - DOMAIN-SUFFIX,95516.com
+  - DOMAIN-SUFFIX,chinaunionpay.net
+  - DOMAIN-SUFFIX,unionpay.net
+  - DOMAIN-SUFFIX,cup62.cn
+  - DOMAIN-SUFFIX,unionpay.com
+  - DOMAIN-SUFFIX,chinaunionpay.com.cn
+  - DOMAIN-SUFFIX,unionpaysecure.com
+  - DOMAIN-SUFFIX,95516.net
+  - DOMAIN-SUFFIX,unionpayintl.com
   ## > 机核GCORES
   - DOMAIN-SUFFIX,gcores.com
   ## > 京东
@@ -1785,15 +1869,6 @@ payload:
   ## > 中国太平
   - DOMAIN-SUFFIX,cntaiping.com
   - DOMAIN-SUFFIX,cntaiping.com.hk
-  ## > 中国银行
-  - DOMAIN-SUFFIX,abchina.com
-  - DOMAIN-SUFFIX,boc.cn
-  - DOMAIN-SUFFIX,whccb.com
-  ## > 中国银联
-  - DOMAIN-SUFFIX,95516.com
-  - DOMAIN-SUFFIX,unionpay.com
-  - DOMAIN-SUFFIX,unionpayintl.com
-  - DOMAIN-SUFFIX,unionpaysecure.com
   ## > 字节跳动
   - DOMAIN-SUFFIX,icphoto.cn
   - DOMAIN-SUFFIX,toscdn.com
@@ -2333,8 +2408,6 @@ payload:
   - DOMAIN-SUFFIX,baixing.com
   - DOMAIN-SUFFIX,baixing.net
   - DOMAIN-SUFFIX,bangongziyuan.com
-  - DOMAIN-SUFFIX,bankcomm.com
-  - DOMAIN-SUFFIX,bankofchina.com
   - DOMAIN-SUFFIX,banzhu22.com
   - DOMAIN-SUFFIX,baomitu.com
   - DOMAIN-SUFFIX,baoshuu.com
@@ -2480,7 +2553,6 @@ payload:
   - DOMAIN-SUFFIX,carnoc.com
   - DOMAIN-SUFFIX,cbiqu.com
   - DOMAIN-SUFFIX,cbxs.net
-  - DOMAIN-SUFFIX,ccb.com
   - DOMAIN-SUFFIX,cdn20.com
   - DOMAIN-SUFFIX,cdnmama.com
   - DOMAIN-SUFFIX,cecdc.com
@@ -2540,8 +2612,6 @@ payload:
   - DOMAIN-SUFFIX,cloudsigma.com
   - DOMAIN-SUFFIX,cloudxns.com
   - DOMAIN-SUFFIX,cloudxns.net
-  - DOMAIN-SUFFIX,cmbchina.com
-  - DOMAIN-SUFFIX,cmbimg.com
   - DOMAIN-SUFFIX,cmct.tv
   - DOMAIN-SUFFIX,cmfu.com
   - DOMAIN-SUFFIX,cmread.com
@@ -2740,8 +2810,6 @@ payload:
   - DOMAIN-SUFFIX,ebookbao.net
   - DOMAIN-SUFFIX,ebrun.com
   - DOMAIN-SUFFIX,ebtang.com
-  - DOMAIN-SUFFIX,ecitic.com
-  - DOMAIN-SUFFIX,ecitic.net
   - DOMAIN-SUFFIX,eclipse.org
   - DOMAIN-SUFFIX,ecxiaoshuo.com
   - DOMAIN-SUFFIX,edu.cn
@@ -3467,7 +3535,6 @@ payload:
   - DOMAIN-SUFFIX,pptbest.com
   - DOMAIN-SUFFIX,ppzuowen.com
   - DOMAIN-SUFFIX,prwx.com
-  - DOMAIN-SUFFIX,psbc.com
   - DOMAIN-SUFFIX,public.zgpingshu.com
   - DOMAIN-SUFFIX,pubyun.com
   - DOMAIN-SUFFIX,pycxjj.com

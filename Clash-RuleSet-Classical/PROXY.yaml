@@ -290,6 +290,9 @@ payload:
   - DOMAIN-SUFFIX,suroot.com
   ## > Duckduckgo
   - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,duck.com
+  - DOMAIN-SUFFIX,ddg.gg
+  - DOMAIN-SUFFIX,spreadprivacy.com
   ## > DynDNS
   - DOMAIN-SUFFIX,blogdns.org
   - DOMAIN-SUFFIX,dyn.com
@@ -617,6 +620,31 @@ payload:
   ## > Linkedin
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-SUFFIX,licdn.com
+  ## > McDonalds
+  - DOMAIN-SUFFIX,4008-517-517.cn
+  - DOMAIN-SUFFIX,aboutmcdonalds.com
+  - DOMAIN-SUFFIX,happymeal.co.nz
+  - DOMAIN-SUFFIX,happymeal.com.au
+  - DOMAIN-SUFFIX,mcd.com
+  - DOMAIN-SUFFIX,mcdelivery.co.id
+  - DOMAIN-SUFFIX,mcdelivery.co.kr
+  - DOMAIN-SUFFIX,mcdelivery.com.au
+  - DOMAIN-SUFFIX,mcdelivery.com.my
+  - DOMAIN-SUFFIX,mcdelivery.com.sg
+  - DOMAIN-SUFFIX,mcdelivery.com.tw
+  - DOMAIN-SUFFIX,mcdindonesia.com
+  - DOMAIN-SUFFIX,mcdonalds.ca
+  - DOMAIN-SUFFIX,mcdonalds.co.uk
+  - DOMAIN-SUFFIX,mcdonalds.com
+  - DOMAIN-SUFFIX,mcdonalds.com.hk
+  - DOMAIN-SUFFIX,mcdonalds.hk
+  - DOMAIN-SUFFIX,mcdonalds.it
+  - DOMAIN-SUFFIX,mcdonalds.no
+  - DOMAIN-SUFFIX,mcdonalds.se
+  - DOMAIN-SUFFIX,mcdonaldsarabia.com
+  - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+  - DOMAIN-SUFFIX,mcdonaldsparties.com.au
+  - DOMAIN-SUFFIX,xn--qhrx81fxh2a.xn--55qx5d.hk
   ## > Mega
   - DOMAIN-SUFFIX,mega.co.nz
   - DOMAIN-SUFFIX,mega.nz
@@ -980,6 +1008,11 @@ payload:
   - DOMAIN-SUFFIX,wheelpop.com
   - DOMAIN-SUFFIX,wwtbam.com
   - DOMAIN-SUFFIX,yourfantasybeginsnow.com
+  ## > SourceForge
+  - DOMAIN-SUFFIX,sourceforge.com
+  - DOMAIN-SUFFIX,sourceforge.net
+  - DOMAIN-SUFFIX,sf.net
+  - DOMAIN-SUFFIX,fsdn.com
   ## > Spark
   - DOMAIN-SUFFIX,smartmailcloud.com
   ## > Springer
