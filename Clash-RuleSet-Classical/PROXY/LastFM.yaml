@@ -1,6 +1,6 @@
 payload:
   ## > Last.fm
-  - DOMAIN-SUFFIX,ws.audioscrobbler.com
+  - DOMAIN-SUFFIX,audioscrobbler.com
   - DOMAIN-SUFFIX,last.fm
   - DOMAIN-SUFFIX,lastfm.es
   - DOMAIN-SUFFIX,lastfm.freetls.fastly.net
