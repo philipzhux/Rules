@@ -1654,6 +1654,10 @@ IP-CIDR,140.249.6.0/32,no-resolve
 DOMAIN-SUFFIX,pdsso.com
 DOMAIN-SUFFIX,xiongmaoxingyan.com
 DOMAIN-SUFFIX,panda.tv
+## > 学而思网校
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
 ## > YangGuangChuanMei
 DOMAIN-SUFFIX,ixgvideo.com
 DOMAIN-SUFFIX,365yg.com
