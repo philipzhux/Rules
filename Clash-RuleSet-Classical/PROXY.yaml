@@ -542,6 +542,13 @@ payload:
   - DOMAIN-SUFFIX,globalsign.nl
   ## > Godaddy
   - DOMAIN-SUFFIX,godaddy.com
+  ## > Gucci
+  - DOMAIN-SUFFIX,chimeforchange.org
+  - DOMAIN-SUFFIX,gucci.cn
+  - DOMAIN-SUFFIX,gucci.com
+  - DOMAIN-SUFFIX,guccimuseo.com
+  - DOMAIN-SUFFIX,guccitimeless.com
+  - DOMAIN-SUFFIX,regiongold.com
   ## > Hashicorp
   - DOMAIN-SUFFIX,consul.io
   - DOMAIN-SUFFIX,hashicorp.com
@@ -5711,7 +5718,6 @@ payload:
   - DOMAIN-SUFFIX,sexinsex.net
   - DOMAIN-SUFFIX,sextvx.com
   - DOMAIN-SUFFIX,sexxxy.biz
-  - DOMAIN-SUFFIX,sf.net
   - DOMAIN-SUFFIX,sfileydy.com
   - DOMAIN-SUFFIX,sfshibao.com
   - DOMAIN-SUFFIX,sftindia.org
@@ -5891,7 +5897,6 @@ payload:
   - DOMAIN-SUFFIX,soundofhope.kr
   - DOMAIN-SUFFIX,soup.io
   - DOMAIN-SUFFIX,soupofmedia.com
-  - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,sourcewadio.com
   - DOMAIN-SUFFIX,southnews.com.tw
   - DOMAIN-SUFFIX,sowers.org.hk

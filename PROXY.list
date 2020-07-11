@@ -541,6 +541,13 @@ DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.nl
 ## > Godaddy
 DOMAIN-SUFFIX,godaddy.com
+## > Gucci
+DOMAIN-SUFFIX,chimeforchange.org
+DOMAIN-SUFFIX,gucci.cn
+DOMAIN-SUFFIX,gucci.com
+DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,regiongold.com
 ## > Hashicorp
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com
