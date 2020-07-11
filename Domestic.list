@@ -1103,6 +1103,13 @@ DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,woozooo.com
+## > 乐播投屏
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,hpplay.com.cn
+DOMAIN-SUFFIX,mirrorcast.cn
+DOMAIN-SUFFIX,mirrorcast.tv
+DOMAIN-SUFFIX,mirrorcast.com.cn
+DOMAIN-SUFFIX,乐播.com
 ## > 乐视
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcdn.com
