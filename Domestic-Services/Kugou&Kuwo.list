@@ -1,9 +1,22 @@
 ## > 酷狗 & 酷我
 USER-AGENT,%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90*
+DOMAIN-SUFFIX,gouwo.com
 DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,kkzhan.com
+DOMAIN-SUFFIX,ktv.com
+DOMAIN-SUFFIX,kufm.cn
+DOMAIN-SUFFIX,kugoo.com
 DOMAIN-SUFFIX,kugou.com
-DOMAIN-SUFFIX,kuwo.cn
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kumi.com
+DOMAIN-SUFFIX,shuoba.com
+DOMAIN-SUFFIX,shuoba.me
+DOMAIN-SUFFIX,shuoba.org
+DOMAIN-SUFFIX,2496.cn
+DOMAIN-SUFFIX,koowo.cn
 DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
 ## >> 酷狗 & 酷我 CIDR
 IP-CIDR,222.186.145.0/24,no-resolve
 IP-CIDR,222.245.77.0/24,no-resolve
