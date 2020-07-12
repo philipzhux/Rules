@@ -85,6 +85,17 @@ payload:
   - DOMAIN-SUFFIX,51job.com
   - DOMAIN-SUFFIX,correlation-one.cn
   - DOMAIN-SUFFIX,zhiding.com.cn
+  ## > 56 网
+  - DOMAIN-SUFFIX,56.com
+  - DOMAIN-SUFFIX,56img.com
+  - DOMAIN-SUFFIX,56imgs.com
+  - DOMAIN-SUFFIX,icaneasy.com
+  - DOMAIN-SUFFIX,icanvideo.com
+  - DOMAIN-SUFFIX,qf.com.cn
+  - DOMAIN-SUFFIX,qianfan.tv
+  - DOMAIN-SUFFIX,somama.com
+  - DOMAIN-SUFFIX,v-56.com
+  - DOMAIN-SUFFIX,vicovico.com
   ## > 58 TongCheng
   - DOMAIN-SUFFIX,chinahr.com
   - DOMAIN-SUFFIX,58corp.com
@@ -1431,19 +1442,60 @@ payload:
   ## > Stage1st
   - DOMAIN-SUFFIX,saraba1st.com
   ## > 搜狐
-  - DOMAIN-SUFFIX,sogo.com
-  - DOMAIN-SUFFIX,sogoucdn.com
-  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,acoloo.com
+  - DOMAIN-SUFFIX,didipai.com
+  - DOMAIN-SUFFIX,dm518.cn
+  - DOMAIN-SUFFIX,domeos.cn
+  - DOMAIN-SUFFIX,domeos.com.cn
+  - DOMAIN-SUFFIX,focus.cn
+  - DOMAIN-SUFFIX,gfeel.com.cn
+  - DOMAIN-SUFFIX,goodfeel.cn
+  - DOMAIN-SUFFIX,hixiaoe.com
+  - DOMAIN-SUFFIX,itc.cn
+  - DOMAIN-SUFFIX,itc.com.cn
+  - DOMAIN-SUFFIX,k.sohu
+  - DOMAIN-SUFFIX,m.sohu
+  - DOMAIN-SUFFIX,sohu-inc.com
+  - DOMAIN-SUFFIX,sohu.cn
   - DOMAIN-SUFFIX,sohu.com
   - DOMAIN-SUFFIX,sohu.com.cn
+  - DOMAIN-SUFFIX,sohuapps.com
   - DOMAIN-SUFFIX,sohucs.com
-  - DOMAIN-SUFFIX,sohu-inc.com
-  - DOMAIN-SUFFIX,v-56.com
-  - DOMAIN-SUFFIX,56.com
-  - DOMAIN-SUFFIX,itc.cn
-  - DOMAIN-SUFFIX,sohuno.com
+  - DOMAIN-SUFFIX,sohumail.com
+  - DOMAIN-SUFFIX,sohuora.com
   - DOMAIN-SUFFIX,sohurdc.com
+  - DOMAIN-SUFFIX,sohusce.com
+  - DOMAIN-SUFFIX,t.sohu
+  - DOMAIN-SUFFIX,tv.sohu
+  - DOMAIN-SUFFIX,v.sohu
+  ## >> 搜狗
+  - DOMAIN-SUFFIX,sososnap.com
+  - DOMAIN-SUFFIX,soso.com
+  - DOMAIN-SUFFIX,soso.com.cn
+  - DOMAIN-SUFFIX,teemo.cn
+  - DOMAIN-SUFFIX,imancheng.cn
+  - DOMAIN-SUFFIX,yeyousg.com
+  - DOMAIN-SUFFIX,sgyeyou.com
+  - DOMAIN-SUFFIX,ggowan.com
+  - DOMAIN-SUFFIX,ggoplay.com
+  - DOMAIN-SUFFIX,sgyouxi.com
+  - DOMAIN-SUFFIX,sogoucdn.com
+  - DOMAIN-SUFFIX,sogou.cn
+  - DOMAIN-SUFFIX,sogou.com.cn
+  - DOMAIN-SUFFIX,sogo.com
+  - DOMAIN-SUFFIX,sogou-inc.com
+  - DOMAIN-SUFFIX,sogou-op.org
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,sogou.net
+  - DOMAIN-SUFFIX,pinyin.cn
+  - DOMAIN-SUFFIX,qd.ink
+  - DOMAIN-SUFFIX,baokang.com
   - DOMAIN-SUFFIX,go2map.com
+  - DOMAIN-SUFFIX,sg.cn
+  - DOMAIN-SUFFIX,wowenwen.com
+  - DOMAIN-SUFFIX,xinyan.cn
+  - DOMAIN-SUFFIX,yidianliulan.cn
+  - DOMAIN-SUFFIX,yidianliulan.com
   ## > 泰康
   - DOMAIN-SUFFIX,taikang.com
   - DOMAIN-SUFFIX,taikanglife.com
@@ -1538,7 +1590,6 @@ payload:
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,tencentmusic.com
   - DOMAIN-SUFFIX,qtimg.cn
-  - DOMAIN-SUFFIX,soso.com
   - DOMAIN-SUFFIX,tencentmind.com
   - DOMAIN-SUFFIX,weixin.com
   ## > 天威诚信
@@ -2713,7 +2764,6 @@ payload:
   - DOMAIN-SUFFIX,book.lieying.cn
   - DOMAIN-SUFFIX,book.sfacg.com
   - DOMAIN-SUFFIX,book.sidamingzhu.org
-  - DOMAIN-SUFFIX,book.sogou.com
   - DOMAIN-SUFFIX,book88.org
   - DOMAIN-SUFFIX,bookbao8.com
   - DOMAIN-SUFFIX,bookbl.com
@@ -4282,7 +4332,6 @@ payload:
   - DOMAIN-SUFFIX,xiaoqiangxs.org
   - DOMAIN-SUFFIX,xiaos2019.com
   - DOMAIN-SUFFIX,xiaoshuo.kr
-  - DOMAIN-SUFFIX,xiaoshuo.sogou.com
   - DOMAIN-SUFFIX,xiaoshuo5.org
   - DOMAIN-SUFFIX,xiaoshuo530.com
   - DOMAIN-SUFFIX,xiaoshuob.com
