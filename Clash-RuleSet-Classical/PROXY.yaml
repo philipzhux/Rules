@@ -300,6 +300,21 @@ payload:
   ## > Csis
   - DOMAIN-SUFFIX,csis.org
   - DOMAIN-SUFFIX,csis-prod.s3.amazonaws.com
+  ## > DELL
+  - DOMAIN-SUFFIX,dell-alw.com
+  - DOMAIN-SUFFIX,dell-brand.com
+  - DOMAIN-SUFFIX,dell.co.in
+  - DOMAIN-SUFFIX,dell.co.kr
+  - DOMAIN-SUFFIX,dell.co.nz
+  - DOMAIN-SUFFIX,dell.co.th
+  - DOMAIN-SUFFIX,dell.com
+  - DOMAIN-SUFFIX,dell.com.au
+  - DOMAIN-SUFFIX,dell.com.cn
+  - DOMAIN-SUFFIX,dell.com.hk
+  - DOMAIN-SUFFIX,dell.com.my
+  - DOMAIN-SUFFIX,dell.com.sg
+  - DOMAIN-SUFFIX,dell.com.tw
+  - DOMAIN-SUFFIX,dellcdn.com
   ## > Digicert
   - DOMAIN-SUFFIX,digicert.com
   ## > Discord
