@@ -438,13 +438,33 @@ DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,olympicchannelchina.cn
-## > CNKI
+## > CNKI (中国知网)
+DOMAIN-SUFFIX,bbf.org.cn
+DOMAIN-SUFFIX,bjsbnet.com
+DOMAIN-SUFFIX,chndoi.cn
+DOMAIN-SUFFIX,chndoi.com
+DOMAIN-SUFFIX,chndoi.com.cn
+DOMAIN-SUFFIX,chndoi.net
+DOMAIN-SUFFIX,chndoi.org
 DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnkidoi.cn
+DOMAIN-SUFFIX,cnkidoi.com
+DOMAIN-SUFFIX,cnkidoi.net
+DOMAIN-SUFFIX,cnkidoi.org
+DOMAIN-SUFFIX,wuxizazhi.cn
+DOMAIN-SUFFIX,wuxizazhi.com
+DOMAIN-SUFFIX,wuxizazhi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.net
+DOMAIN-SUFFIX,wuxizazhi.net.cn
 ## > Coding
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
 ## > 创客贴
+DOMAIN-SUFFIX,byfan.cn
 DOMAIN-SUFFIX,chuangkit.com
+DOMAIN-SUFFIX,ckt.cn
+DOMAIN-SUFFIX,huoziyin.cn
+DOMAIN-SUFFIX,huoziyin.com
 ## > 弹弹Play
 DOMAIN-SUFFIX,acplay.net
 DOMAIN-SUFFIX,dandanplay.com
@@ -476,10 +496,22 @@ DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,diyidan.com
 DOMAIN-SUFFIX,diyidan.net
 ## > 丁香园
-DOMAIN-SUFFIX,dxycdn.com
-DOMAIN-SUFFIX,dxy.cn
-DOMAIN-SUFFIX,crou.cn
+DOMAIN-SUFFIX,0dxy.cn
 DOMAIN-SUFFIX,biomart.cn
+DOMAIN-SUFFIX,centerwatch.cn
+DOMAIN-SUFFIX,crou.cn
+DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,dxy.com
+DOMAIN-SUFFIX,dxy.me
+DOMAIN-SUFFIX,dxy.net
+DOMAIN-SUFFIX,dxycdn.com
+DOMAIN-SUFFIX,dxyer.cn
+DOMAIN-SUFFIX,dxyer.com
+DOMAIN-SUFFIX,guanlannet.com
+DOMAIN-SUFFIX,jobmd.cn
+DOMAIN-SUFFIX,linkmed.com.cn
+DOMAIN-SUFFIX,mdnews.cn
+DOMAIN-SUFFIX,pubmed.cn
 ## > 斗鱼
 DOMAIN-SUFFIX,mdouyu.tv
 DOMAIN-SUFFIX,douyu.com
@@ -513,8 +545,18 @@ DOMAIN-SUFFIX,secec.com
 DOMAIN-SUFFIX,sunlife-everbright.com
 ## > 饿了么
 DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,ele.to
 DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,eleme.com.cn
+DOMAIN-SUFFIX,eleme.io
+DOMAIN-SUFFIX,elemecdn.cn
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,elenet.me
+DOMAIN-SUFFIX,fengniaopaotui.cn
+DOMAIN-SUFFIX,fengniaozhongbao.cn
+DOMAIN-SUFFIX,xingxuanwaimai.com
+DOMAIN-SUFFIX,xyzele.com
+DOMAIN-SUFFIX,youcaishop.cn
 ## > 风行网
 DOMAIN-SUFFIX,fun.tv
 DOMAIN-SUFFIX,funshion.tv
@@ -531,8 +573,6 @@ DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,fengzhibo.com.cn
 DOMAIN-SUFFIX,phoenixtv.com
 DOMAIN-SUFFIX,phoenixtv.com.cn
-## > 广发银行
-DOMAIN-SUFFIX,95508.com
 ## > 华为
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,hicloud.com
@@ -596,6 +636,11 @@ DOMAIN-SUFFIX,ccb.com.cn
 DOMAIN-SUFFIX,ccbhome.net
 DOMAIN-SUFFIX,ccbhome.cn
 DOMAIN-SUFFIX,ccbcos.com
+## > CGB (广发银行)
+DOMAIN-SUFFIX,95508.com
+DOMAIN-SUFFIX,cgbchina.cn
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,gdb.com.cn
 ## > CITIC (中信银行)
 DOMAIN-SUFFIX,citic.com
 DOMAIN-SUFFIX,citicgroup.com.cn
