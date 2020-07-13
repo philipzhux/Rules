@@ -1,29 +1,46 @@
 payload:
-## 🚦 DMCA敏感
-## > DMCA敏感
-# > qbittorrent
+  ## 🚦 DMCA敏感
+  ## > DMCA敏感
+  # > qbittorrent
   - DOMAIN-SUFFIX,qbittorrent.org
-## > 迅雷
-  - DOMAIN-SUFFIX,xunlei.com
-  - DOMAIN-SUFFIX,sandai.net
-  - DOMAIN-SUFFIX,n0808.com
+  ## > 迅雷
+  - DOMAIN-SUFFIX,8uri.cn
+  - DOMAIN-SUFFIX,gigaget.com
+  - DOMAIN-SUFFIX,ibangtiao.com
   - DOMAIN-SUFFIX,kanimg.com
   - DOMAIN-SUFFIX,kankan.com
-  - DOMAIN-SUFFIX,xunlei.cn
-# >> 烽动CDN
-  - DOMAIN-SUFFIX,geilijiasu.com
-  - DOMAIN-SUFFIX,xlisp.net
+  - DOMAIN-SUFFIX,kankanpro.cn
+  - DOMAIN-SUFFIX,kkstudy.cn
+  - DOMAIN-SUFFIX,kuaipan.cn
+  - DOMAIN-SUFFIX,newvr.com
+  - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,sjzhushou.com
+  - DOMAIN-SUFFIX,taogepian.com
+  - DOMAIN-SUFFIX,xbase.cloud
+  - DOMAIN-SUFFIX,xbase.xyz
+  - DOMAIN-SUFFIX,xcloudbase.com
+  - DOMAIN-SUFFIX,xlpan.com
+  - DOMAIN-SUFFIX,xunlei.com
+  - DOMAIN-SUFFIX,xunlei.net
+  - DOMAIN-SUFFIX,155.com
   - DOMAIN-SUFFIX,2sonar.com
+  - DOMAIN-SUFFIX,falconalliance.cn
+  - DOMAIN-SUFFIX,geilijiasu.com
+  - DOMAIN-SUFFIX,geilijiasu.net
+  - DOMAIN-SUFFIX,n0808.com
   - DOMAIN-SUFFIX,neoimaging.cn
   - DOMAIN-SUFFIX,szxlxzb.com
-  - DOMAIN-SUFFIX,155.com
+  - DOMAIN-SUFFIX,thunderurl.com
   - DOMAIN-SUFFIX,xlyouxi.net
+  # >> 烽动CDN
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,88cdn.com
+  - DOMAIN-SUFFIX,fontong.com
   - DOMAIN-SUFFIX,p2cdn.com
   - DOMAIN-SUFFIX,thundercdn.com
-  - DOMAIN-SUFFIX,thunderurl.com
-## > Trackers
+  - DOMAIN-SUFFIX,xlisp.net
+  - DOMAIN-SUFFIX,xunlei.cn
+  ## > Trackers
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
