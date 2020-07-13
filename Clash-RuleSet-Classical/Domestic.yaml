@@ -361,13 +361,69 @@ payload:
   - DOMAIN-SUFFIX,zybang.com
   ## > 暴风影音
   - DOMAIN-SUFFIX,baofeng.com
+  - DOMAIN-SUFFIX,baofeng.mobi
+  - DOMAIN-SUFFIX,baofeng.net
+  - DOMAIN-SUFFIX,baofengtv.com
+  - DOMAIN-SUFFIX,bfimg.com
+  - DOMAIN-SUFFIX,暴风.公司
+  - DOMAIN-SUFFIX,暴风.网络
+  - DOMAIN-SUFFIX,暴风一.中国
+  - DOMAIN-SUFFIX,暴风在线.中国
+  - DOMAIN-SUFFIX,暴风影音.公司
+  - DOMAIN-SUFFIX,暴风影音.网络
+  - DOMAIN-SUFFIX,暴风影音在线.中国
+  - DOMAIN-SUFFIX,暴风盒子.中国
+  - DOMAIN-SUFFIX,bfshow.cn
+  - DOMAIN-SUFFIX,bjtndao.org
+  - DOMAIN-SUFFIX,stormshow.cn
   ## > 北京青年报
   - DOMAIN-SUFFIX,ynet.com.cn
   - DOMAIN-SUFFIX,ynet.com
   - DOMAIN-SUFFIX,ynet.cn
-  ## > Cas
+  ## > CAS (中国科学院文献情报中心)
+  - DOMAIN-SUFFIX,acas.ac.cn
+  - DOMAIN-SUFFIX,agklab.cn
+  - DOMAIN-SUFFIX,berlin8.org
+  - DOMAIN-SUFFIX,biotech.ac.cn
+  - DOMAIN-SUFFIX,chinaxiv.cn
+  - DOMAIN-SUFFIX,chinaxiv.com
+  - DOMAIN-SUFFIX,chinaxiv.net
+  - DOMAIN-SUFFIX,chinaxiv.org
+  - DOMAIN-SUFFIX,cjstp.cn
+  - DOMAIN-SUFFIX,cnegov.com
+  - DOMAIN-SUFFIX,cnegov.org
+  - DOMAIN-SUFFIX,cscd.ac.cn
+  - DOMAIN-SUFFIX,csci.ac.cn
+  - DOMAIN-SUFFIX,csci.net.cn
   - DOMAIN-SUFFIX,csdl.ac.cn
+  - DOMAIN-SUFFIX,csdl.net.cn
+  - DOMAIN-SUFFIX,csdl.org.cn
+  - DOMAIN-SUFFIX,dataintelligence.ac.cn
+  - DOMAIN-SUFFIX,grc-oa.org.cn
+  - DOMAIN-SUFFIX,hitech.ac.cn
+  - DOMAIN-SUFFIX,iauthor.ac.cn
+  - DOMAIN-SUFFIX,iauthor.cn
+  - DOMAIN-SUFFIX,infotech.ac.cn
+  - DOMAIN-SUFFIX,ipres2020.cn
+  - DOMAIN-SUFFIX,jdis.org
   - DOMAIN-SUFFIX,las.ac.cn
+  - DOMAIN-SUFFIX,lis.ac.cn
+  - DOMAIN-SUFFIX,lndx.ac.cn
+  - DOMAIN-SUFFIX,modernization.ac.cn
+  - DOMAIN-SUFFIX,museum.ac.cn
+  - DOMAIN-SUFFIX,ndpp.ac.cn
+  - DOMAIN-SUFFIX,nsl.ac.cn
+  - DOMAIN-SUFFIX,open-search.org
+  - DOMAIN-SUFFIX,openinnovation.cn
+  - DOMAIN-SUFFIX,openinnoviation.cn
+  - DOMAIN-SUFFIX,progchem.ac.cn
+  - DOMAIN-SUFFIX,sciencechina.ac.cn
+  - DOMAIN-SUFFIX,sciencechina.cn
+  - DOMAIN-SUFFIX,sciencechina.net.cn
+  - DOMAIN-SUFFIX,sciencechina.org.cn
+  - DOMAIN-SUFFIX,sciencefocus.ac.cn
+  - DOMAIN-SUFFIX,stmjsociety.com
+  - DOMAIN-SUFFIX,stpaper.cn
   ## > CCTV
   - DOMAIN-SUFFIX,cctv.cn
   - DOMAIN-SUFFIX,cctv.com
@@ -2123,76 +2179,171 @@ payload:
   - DOMAIN-SUFFIX,cntaiping.com
   - DOMAIN-SUFFIX,cntaiping.com.hk
   ## > 字节跳动
-  - DOMAIN-SUFFIX,icphoto.cn
-  - DOMAIN-SUFFIX,toscdn.com
-  - DOMAIN-SUFFIX,jinritoutiao.com
-  - DOMAIN-SUFFIX,toutiaolite.com
-  - DOMAIN-SUFFIX,toutiaowap.com
-  - DOMAIN-SUFFIX,toutiao.com
-  - DOMAIN-SUFFIX,toutiaohao.com
-  - DOMAIN-SUFFIX,toutiaopage.com
-  - DOMAIN-SUFFIX,tetrisone.com
-  - DOMAIN-SUFFIX,jokecommunity.com
-  - DOMAIN-SUFFIX,neihanshequ.com
-  - DOMAIN-SUFFIX,toutiaocdn.com
-  - DOMAIN-SUFFIX,zjcdn.com
-  - DOMAIN-SUFFIX,bytecdn.com
+  - DOMAIN-SUFFIX,activitybyte.com
+  - DOMAIN-SUFFIX,bdactivity.com
   - DOMAIN-SUFFIX,bdgslb.com
-  - DOMAIN-SUFFIX,oortgslb.com
-  - DOMAIN-SUFFIX,zjgslb.com
+  - DOMAIN-SUFFIX,byteac.com
+  - DOMAIN-SUFFIX,byteactivity.com
+  - DOMAIN-SUFFIX,bytecdn.cn
+  - DOMAIN-SUFFIX,bytecdn.com
+  - DOMAIN-SUFFIX,bytedance.cn
   - DOMAIN-SUFFIX,bytedance.com
   - DOMAIN-SUFFIX,bytedance.net
-  - DOMAIN-SUFFIX,toutiaocloud.com
-  - DOMAIN-SUFFIX,bytecdn.cn
+  - DOMAIN-SUFFIX,bytedance.org
+  - DOMAIN-SUFFIX,bytedanceapi.com
+  - DOMAIN-SUFFIX,bytedns.net
   - DOMAIN-SUFFIX,bytedns1.com
   - DOMAIN-SUFFIX,bytedns2.com
+  - DOMAIN-SUFFIX,bytefcdn.com
+  - DOMAIN-SUFFIX,byteimg.com
   - DOMAIN-SUFFIX,cdndns1.com
   - DOMAIN-SUFFIX,cdndns2.com
-  - DOMAIN-SUFFIX,pstatp.com
-  - DOMAIN-SUFFIX,bytedns.net
-  - DOMAIN-SUFFIX,byteimg.com
-  - DOMAIN-SUFFIX,bytefcdn.com
-  - DOMAIN-SUFFIX,wtturl.cn
-  - DOMAIN-SUFFIX,wukong.com
-  - DOMAIN-SUFFIX,ziyrta.com
-  - DOMAIN-SUFFIX,youdianyisi.com
-  - DOMAIN-SUFFIX,bytedanceapi.com
-  - DOMAIN-SUFFIX,bdactivity.com
   - DOMAIN-SUFFIX,huaxiong.com
-  - DOMAIN-SUFFIX,byted.org
+  - DOMAIN-SUFFIX,huoshancdn.com
+  - DOMAIN-SUFFIX,icphoto.cn
+  - DOMAIN-SUFFIX,jinritoutiao.com
+  - DOMAIN-SUFFIX,jokecommunity.cn
+  - DOMAIN-SUFFIX,jokecommunity.com
+  - DOMAIN-SUFFIX,jokecommunity.net
+  - DOMAIN-SUFFIX,jstti.com
+  - DOMAIN-SUFFIX,jtamac.com
+  - DOMAIN-SUFFIX,neihancommunity.cn
+  - DOMAIN-SUFFIX,neihancommunity.com
+  - DOMAIN-SUFFIX,neihancommunity.net
+  - DOMAIN-SUFFIX,neihandiantai.cn
+  - DOMAIN-SUFFIX,neihandiantai.com
+  - DOMAIN-SUFFIX,neihandiantai.com.cn
+  - DOMAIN-SUFFIX,neihanshequ.cn
+  - DOMAIN-SUFFIX,neihanshequ.com
+  - DOMAIN-SUFFIX,oortgslb.com
+  - DOMAIN-SUFFIX,pacmantwo.com
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,samasty.com
   - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,tekkenthree.com
+  - DOMAIN-SUFFIX,tetrisone.com
+  - DOMAIN-SUFFIX,toscdn.com
+  - DOMAIN-SUFFIX,toutiao.com
+  - DOMAIN-SUFFIX,toutiao11.com
+  - DOMAIN-SUFFIX,toutiao12.com
+  - DOMAIN-SUFFIX,toutiao13.com
+  - DOMAIN-SUFFIX,toutiao14.com
+  - DOMAIN-SUFFIX,toutiao15.com
+  - DOMAIN-SUFFIX,toutiaocdn.cn
+  - DOMAIN-SUFFIX,toutiaocdn.com
+  - DOMAIN-SUFFIX,toutiaocdn.net
+  - DOMAIN-SUFFIX,toutiaocloud.cn
+  - DOMAIN-SUFFIX,toutiaocloud.com
+  - DOMAIN-SUFFIX,toutiaocloud.net
+  - DOMAIN-SUFFIX,toutiaohao.cn
+  - DOMAIN-SUFFIX,toutiaohao.com
+  - DOMAIN-SUFFIX,toutiaohao.com.cn
   - DOMAIN-SUFFIX,toutiaohao.net
   - DOMAIN-SUFFIX,toutiaoimg.cn
   - DOMAIN-SUFFIX,toutiaoimg.com
   - DOMAIN-SUFFIX,toutiaoimg.net
-  - DOMAIN-SUFFIX,toutiao13.com
-  - DOMAIN-SUFFIX,toutiaocdn.net
+  - DOMAIN-SUFFIX,toutiaojisu.com
+  - DOMAIN-SUFFIX,toutiaolite.com
+  - DOMAIN-SUFFIX,toutiaolite1.com
+  - DOMAIN-SUFFIX,toutiaolite2.com
+  - DOMAIN-SUFFIX,toutiaopage.com
+  - DOMAIN-SUFFIX,toutiaowap.cn
+  - DOMAIN-SUFFIX,toutiaowap.com
+  - DOMAIN-SUFFIX,toutiaowap.net
+  - DOMAIN-SUFFIX,ttbyte.cn
+  - DOMAIN-SUFFIX,ttbyte.com
+  - DOMAIN-SUFFIX,ttbyte.net
+  - DOMAIN-SUFFIX,ttjisu.com
+  - DOMAIN-SUFFIX,wtturl.cn
+  - DOMAIN-SUFFIX,wukong.com
   - DOMAIN-SUFFIX,wukongwenda.cn
   - DOMAIN-SUFFIX,wukongwenda.com
+  - DOMAIN-SUFFIX,youdianyisi.com
+  - DOMAIN-SUFFIX,zijiecdn.cn
   - DOMAIN-SUFFIX,zijiecdn.com
   - DOMAIN-SUFFIX,zijiecdn.net
+  - DOMAIN-SUFFIX,zijieimg.cn
   - DOMAIN-SUFFIX,zijieimg.com
+  - DOMAIN-SUFFIX,zijieimg.net
+  - DOMAIN-SUFFIX,zijieurl.cn
+  - DOMAIN-SUFFIX,zijieurl.com
+  - DOMAIN-SUFFIX,zijieurl.net
+  - DOMAIN-SUFFIX,zijiewap.cn
+  - DOMAIN-SUFFIX,zijiewap.com
+  - DOMAIN-SUFFIX,zijiewap.net
+  - DOMAIN-SUFFIX,zilrms.com
+  - DOMAIN-SUFFIX,ziyrta.com
+  - DOMAIN-SUFFIX,zjbyte.cn
   - DOMAIN-SUFFIX,zjbyte.com
+  - DOMAIN-SUFFIX,zjbyte.net
+  - DOMAIN-SUFFIX,zjcdn.com
+  - DOMAIN-SUFFIX,zjgslb.com
+  - DOMAIN-SUFFIX,byted.org
   - DOMAIN-SUFFIX,ipstatp.com
-  - IP-CIDR,114.246.10.65/32,no-resolve
-  # >> 微播视界
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,iesdouyin.com
-  - DOMAIN-SUFFIX,douyinvideo.net
-  - DOMAIN-SUFFIX,ieshuoshan.com
-  - DOMAIN-SUFFIX,woaihuoshan.com
-  - DOMAIN-SUFFIX,huoshan.com
+  ## >> 抖音
+  - DOMAIN-SUFFIX,amemv.cn
   - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,betastar.cn
-  - DOMAIN-SUFFIX,kolbuyer.cn
+  - DOMAIN-SUFFIX,amemv.net
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,douyinact.com
+  - DOMAIN-SUFFIX,douyinact.net
   - DOMAIN-SUFFIX,douyincdn.com
-  # >> 西瓜视频
+  - DOMAIN-SUFFIX,douyinclips.com
+  - DOMAIN-SUFFIX,douyinmusicclips.com
+  - DOMAIN-SUFFIX,douyinmusicvideo.com
+  - DOMAIN-SUFFIX,douyinshortvideo.com
+  - DOMAIN-SUFFIX,douyinvideo.net
+  - DOMAIN-SUFFIX,dymusictape.com
+  - DOMAIN-SUFFIX,dymusicvideo.com
+  - DOMAIN-SUFFIX,dyshortvideo.com
+  - DOMAIN-SUFFIX,dyvideotape.com
+  - DOMAIN-SUFFIX,iesdouyin.com
+  - DOMAIN-SUFFIX,iesdouyin.net
+  ## >> 火山网
+  - DOMAIN-SUFFIX,aihst8.com
+  - DOMAIN-SUFFIX,betastar.cn
+  - DOMAIN-SUFFIX,hotsoonapp.cn
+  - DOMAIN-SUFFIX,hotsoonapp.com
+  - DOMAIN-SUFFIX,hotsoonapp.net
+  - DOMAIN-SUFFIX,hotsoonvideo.cn
+  - DOMAIN-SUFFIX,hotsoonvideo.com
+  - DOMAIN-SUFFIX,hotsoonvideo.net
+  - DOMAIN-SUFFIX,hotsoonzb.cn
+  - DOMAIN-SUFFIX,hotsoonzb.com
+  - DOMAIN-SUFFIX,hotsoonzb.net
+  - DOMAIN-SUFFIX,huoshan.com
+  - DOMAIN-SUFFIX,huoshangroup.com
+  - DOMAIN-SUFFIX,huoshanlive.com
+  - DOMAIN-SUFFIX,huoshanparty.com
+  - DOMAIN-SUFFIX,huoshante8.com
+  - DOMAIN-SUFFIX,huoshanvideo.cn
+  - DOMAIN-SUFFIX,huoshanvideo.net
+  - DOMAIN-SUFFIX,huoshanxiaoshipin.cn
+  - DOMAIN-SUFFIX,huoshanxiaoshipin.net
+  - DOMAIN-SUFFIX,huoshanzhibo.cn
+  - DOMAIN-SUFFIX,huoshanzhibo.com
+  - DOMAIN-SUFFIX,huoshanzhibo.net
+  - DOMAIN-SUFFIX,ieshs.cn
+  - DOMAIN-SUFFIX,ieshs.com
+  - DOMAIN-SUFFIX,ieshs.net
+  - DOMAIN-SUFFIX,ieshuodong.cn
+  - DOMAIN-SUFFIX,ieshuodong.net
+  - DOMAIN-SUFFIX,ieshuoshan.cn
+  - DOMAIN-SUFFIX,ieshuoshan.com
+  - DOMAIN-SUFFIX,ieshuoshan.net
+  - DOMAIN-SUFFIX,ihst8.com
+  - DOMAIN-SUFFIX,kolbuyer.cn
+  - DOMAIN-SUFFIX,woaihuoshan.com
+  - DOMAIN-SUFFIX,wohst8.com
+  ## >> 西瓜视频
   - DOMAIN-SUFFIX,ixigua.com
   - DOMAIN-SUFFIX,xiguaapp.cn
   - DOMAIN-SUFFIX,xiguaapp.com
+  - DOMAIN-SUFFIX,xiguashipin.cn
   - DOMAIN-SUFFIX,xiguashipin.net
   - DOMAIN-SUFFIX,xiguavideo.cn
   - DOMAIN-SUFFIX,xiguavideo.net
+  - IP-CIDR,114.246.10.65/32,no-resolve
   ## > Teamviewer
   - DOMAIN-SUFFIX,teamviewer.com
   ## > Others-CN
